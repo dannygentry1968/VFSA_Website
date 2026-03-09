@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  vfsa-website:
+    build: .
+    container_name: vfsa-website
+    ports:
+      - "80:80"
+    restart: unless-stopped
