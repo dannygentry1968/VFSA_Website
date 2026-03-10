@@ -9,12 +9,12 @@ const VFSA_CONFIG = {
   },
   // Stripe payment links — update these after running stripe-full-setup.sh
   stripe: {
-    individual: '#',
-    advocate: '#',
-    chapter: '#',
-    district: '#',
-    organization: '#',
-    donate: '#'
+    individual: 'https://buy.stripe.com/test_aFa3cx2SS2Adcjw4XOcs801',
+    advocate: 'https://buy.stripe.com/test_4gM9AVdxwa2Fabo61Scs802',
+    chapter: 'https://buy.stripe.com/test_7sY7sN2SS6Qt1ESfCscs803',
+    district: 'https://buy.stripe.com/test_bJe7sN7981w9fvI1lCcs804',
+    organization: 'https://buy.stripe.com/test_6oU6oJbpo1w95V89e4cs805',
+    donate: 'https://buy.stripe.com/test_3cI9AVcts8YBcjw8a0cs806'
   }
 };
 
@@ -194,6 +194,20 @@ document.addEventListener('DOMContentLoaded', () => {
           btn.textContent = originalText;
           btn.style.background = '';
         }, 3000);
+      }
+    });
+  });
+
+  // ---- Stripe checkout button handler ----
+  document.querySelectorAll('.stripe-checkout').forEach(btn => {
+    btn.addEventListener('click', (e) => {
+      e.preventDefault();
+      const tier = btn.getAttribute('data-stripe-tier');
+      const url = VFSA_CONFIG.stripe[tier];
+      if (url && url !== '#') {
+        window.location.href = url;
+      } else {
+        alert('Payment links are being configured. Please check back soon or contact us at membership@violencefreeschools.org');
       }
     });
   });
