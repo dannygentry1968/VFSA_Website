@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Report an Incident | Violence-Free Schools Alliance</title>
+  <meta name="description" content="Anonymously report incidents of school violence. Your narrative contributes to research data that drives policy change and helps create safer schools.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- Header -->
+  <header class="header">
+    <div class="container header__inner">
+      <a href="index.html" class="logo">
+        <div class="logo__icon">V</div>
+        VFSA <span>| Violence-Free Schools Alliance</span>
+      </a>
+      <button class="hamburger" aria-label="Menu" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+      <nav class="nav">
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="legislation.html">The Bill</a>
+        <a href="faq.html">FAQ</a>
+        <a href="get-involved.html">Get Involved</a>
+        <a href="report.html">Report Incident</a>
+        <a href="contact.html">Contact</a>
+        <a href="get-involved.html" class="btn btn--primary">Join VFSA</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero -->
+  <section class="hero" style="padding:60px 0 50px;">
+    <div class="container">
+      <span class="section-label">Contribute to Research</span>
+      <h1>Report an Incident</h1>
+      <p>Your anonymous account helps build a research database that drives evidence-based policy for safer schools. All submissions are confidential and used solely for scientific analysis and policy research.</p>
+    </div>
+  </section>
+
+  <!-- Anonymity Notice -->
+  <section class="section" style="padding-top:0;">
+    <div class="container">
+      <div style="background:linear-gradient(135deg,#1a5276 0%,#2e86c1 100%);color:white;padding:24px 32px;border-radius:12px;margin-bottom:32px;display:flex;align-items:flex-start;gap:16px;">
+        <div style="font-size:28px;flex-shrink:0;">&#128274;</div>
+        <div>
+          <strong style="font-size:1.1rem;">Your Privacy is Protected</strong>
+          <p style="margin:8px 0 0;opacity:0.95;line-height:1.6;">This form is completely anonymous. We do not collect IP addresses, browser information, or any identifying data. No personal information is required. Your narrative becomes part of a phenomenological research database used by academics and policymakers to understand and prevent school violence.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Report Form -->
+  <section class="section" style="padding-top:0;">
+    <div class="container">
+      <div style="max-width:800px;margin:0 auto;">
+        <h2 style="margin-bottom:8px;">Incident Report Form</h2>
+        <p style="color:var(--text-light);margin-bottom:24px;">All fields except the narrative are optional, but providing context helps researchers better analyze patterns and develop solutions. No personally identifiable information is required.</p>
+
+        <form id="reportForm">
+          <!-- Incident Type -->
+          <div class="form-group">
+            <label for="incidentType">Type of Incident</label>
+            <select id="incidentType" name="incidentType">
+              <option value="">Select incident type</option>
+              <option value="physical-assault">Physical Assault</option>
+              <option value="verbal-threat">Verbal Threat or Intimidation</option>
+              <option value="bullying">Bullying (Ongoing Pattern)</option>
+              <option value="cyberbullying">Cyberbullying</option>
+              <option value="weapon-related">Weapon-Related Incident</option>
+              <option value="sexual-harassment">Sexual Harassment or Assault</option>
+              <option value="gang-related">Gang-Related Violence</option>
+              <option value="property-destruction">Property Destruction / Vandalism</option>
+              <option value="staff-targeted">Violence Targeting Staff</option>
+              <option value="self-harm">Self-Harm or Suicide-Related</option>
+              <option value="domestic-spillover">Domestic Violence Spillover</option>
+              <option value="other">Other</option>
+            </select>
+          </div>
+
+          <!-- School Level -->
+          <div class="form-group">
+            <label for="schoolLevel">School Level</label>
+            <select id="schoolLevel" name="schoolLevel">
+              <option value="">Select school level</option>
+              <option value="elementary">Elementary School (K-5)</option>
+              <option value="middle">Middle School (6-8)</option>
+              <option value="high">High School (9-12)</option>
+              <option value="alternative">Alternative / Continuation School</option>
+              <option value="special-education">Special Education Facility</option>
+              <option value="charter">Charter School</option>
+              <option value="private">Private School</option>
+              <option value="other">Other</option>
+            </select>
+          </div>
+
+          <!-- Reporter Role -->
+          <div class="form-group">
+            <label for="reporterRole">Your Role</label>
+            <select id="reporterRole" name="reporterRole">
+              <option value="">Select your role (optional)</option>
+              <option value="teacher">Teacher</option>
+              <option value="paraprofessional">Paraprofessional / Aide</option>
+              <option value="administrator">School Administrator</option>
+              <option value="counselor">Counselor / Social Worker</option>
+              <option value="support-staff">Support Staff</option>
+              <option value="school-psychologist">School Psychologist</option>
+              <option value="school-nurse">School Nurse</option>
+              <option value="security">Campus Security / SRO</option>
+              <option value="substitute">Substitute Teacher</option>
+              <option value="other">Other Educator</option>
+            </select>
+          </div>
+
+          <!-- State -->
+          <div class="form-group">
+            <label for="reportState">State</label>
+            <input type="text" id="reportState" name="reportState" placeholder="State where incident occurred (optional)">
+          </div>
+
+          <!-- Timeframe -->
+          <div class="form-group">
+            <label for="timeframe">When Did This Occur?</label>
+            <select id="timeframe" name="timeframe">
+              <option value="">Select approximate timeframe</option>
+              <option value="this-week">This Week</option>
+              <option value="this-month">This Month</option>
+              <option value="this-school-year">This School Year</option>
+              <option value="last-school-year">Last School Year</option>
+              <option value="2-5-years">2-5 Years Ago</option>
+              <option value="more-than-5-years">More Than 5 Years Ago</option>
+            </select>
+          </div>
+
+          <!-- Outcome / Response -->
+          <div class="form-group">
+            <label for="outcome">School/District Response</label>
+            <select id="outcome" name="outcome">
+              <option value="">How was it handled? (optional)</option>
+              <option value="appropriate-action">Appropriate Action Taken</option>
+              <option value="partial-response">Partial or Inadequate Response</option>
+              <option value="no-action">No Action Taken</option>
+              <option value="covered-up">Incident Was Minimized or Covered Up</option>
+              <option value="retaliation">Reporter Faced Retaliation</option>
+              <option value="law-enforcement">Law Enforcement Involved</option>
+              <option value="ongoing">Situation is Ongoing / Unresolved</option>
+              <option value="unknown">Outcome Unknown</option>
+            </select>
+          </div>
+
+          <!-- Narrative - THE KEY FIELD -->
+          <div class="form-group">
+            <label for="narrative">Your Account of the Incident *</label>
+            <p style="color:var(--text-light);font-size:0.9rem;margin-bottom:8px;">Please describe what happened in your own words. Include as much detail as you are comfortable sharing. Your narrative is the most valuable part of this report for researchers. <strong>Do not include names or other identifying details.</strong></p>
+            <textarea id="narrative" name="narrative" required placeholder="Describe what happened, how it affected you and your students, what the environment was like before and after, and any lasting impact on the school community..." style="min-height:200px;"></textarea>
+          </div>
+
+          <!-- Impact -->
+          <div class="form-group">
+            <label for="impact">Lasting Impact (Optional)</label>
+            <textarea id="impact" name="impact" placeholder="Describe any lasting effects on you, your students, or the school community. Has this changed how you approach your work? Has it affected student learning or wellbeing?" style="min-height:100px;"></textarea>
+          </div>
+
+          <!-- Consent Notice -->
+          <div style="background:#f8f9fa;padding:16px 20px;border-radius:8px;margin-bottom:24px;border-left:4px solid #2e86c1;">
+            <p style="font-size:0.9rem;color:var(--text-light);margin:0;line-height:1.6;">By submitting this report, you consent to your anonymous narrative being included in VFSA's research database for academic analysis, policy research, and educational advocacy. No personally identifiable information will be associated with your submission.</p>
+          </div>
+
+          <button type="submit" class="btn btn--primary" style="width:100%;padding:16px;font-size:1.05rem;">Submit Anonymous Report</button>
+        </form>
+
+        <!-- Post-submission info -->
+        <div style="margin-top:40px;padding-top:32px;border-top:1px solid #eee;">
+          <h3>How Your Report Makes a Difference</h3>
+          <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:20px;margin-top:16px;">
+            <div style="padding:16px;background:#f8f9fa;border-radius:8px;">
+              <strong style="color:#2e86c1;">Research</strong>
+              <p style="font-size:0.9rem;color:var(--text-light);margin-top:4px;">Phenomenological data from educator narratives provides rich qualitative evidence for academic research on school violence patterns.</p>
+            </div>
+            <div style="padding:16px;background:#f8f9fa;border-radius:8px;">
+              <strong style="color:#2e86c1;">Policy</strong>
+              <p style="font-size:0.9rem;color:var(--text-light);margin-top:4px;">Aggregated data informs legislators and policymakers about the real-world impact of school violence on educators and students.</p>
+            </div>
+            <div style="padding:16px;background:#f8f9fa;border-radius:8px;">
+              <strong style="color:#2e86c1;">Prevention</strong>
+              <p style="font-size:0.9rem;color:var(--text-light);margin-top:4px;">Understanding patterns helps schools and districts develop evidence-based prevention strategies and response protocols.</p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <div class="container">
+      <div class="footer__grid">
+        <div>
+          <h4>Quick Links</h4>
+          <ul>
+            <li><a href="about.html">About VFSA</a></li>
+            <li><a href="legislation.html">The Bill</a></li>
+            <li><a href="faq.html">FAQ</a></li>
+            <li><a href="get-involved.html">Get Involved</a></li>
+            <li><a href="contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4>Resources</h4>
+          <ul>
+            <li><a href="legislation.html">Model Legislation</a></li>
+            <li><a href="faq.html">Q&amp;A Document</a></li>
+            <li><a href="get-involved.html#membership">Membership Tiers</a></li>
+            <li><a href="report.html">Report an Incident</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4>Connect</h4>
+          <ul>
+            <li><a href="contact.html">Contact Us</a></li>
+            <li><a href="#">Newsletter Signup</a></li>
+            <li><a href="#">Press Inquiries</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer__bottom">
+        <span>&copy; 2026 Violence-Free Schools Alliance. All rights reserved.</span>
+        <div class="footer__social">
+          <a href="#" aria-label="Facebook">FB</a>
+          <a href="#" aria-label="Twitter/X">X</a>
+          <a href="#" aria-label="Instagram">IG</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/main.js?v=1773335495"></script>
+</body>
+</html>
