@@ -612,3 +612,74 @@ nav .btn--primary {
 .footer ul .btn {
   margin-top: 8px;
 }
+
+/* ---- Donate / GoFundMe Section ---- */
+.donate-section {
+  background: linear-gradient(135deg, var(--navy) 0%, #1a2a4a 100%);
+  color: var(--white);
+  padding: 80px 0;
+}
+
+.donate-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 48px;
+  align-items: start;
+}
+
+.donate-content .section-label {
+  color: var(--red);
+}
+
+.donate-content h2 {
+  color: var(--white);
+  margin-bottom: 16px;
+}
+
+.donate-content p {
+  color: rgba(255,255,255,0.85);
+  font-size: 1.05rem;
+  line-height: 1.7;
+  margin-bottom: 16px;
+}
+
+.donate-content .lead {
+  font-size: 1.15rem;
+}
+
+.donate-founding {
+  background: rgba(255,255,255,0.08);
+  border-left: 4px solid var(--red);
+  border-radius: var(--radius);
+  padding: 24px;
+  margin-top: 24px;
+}
+
+.donate-founding h3 {
+  color: var(--white);
+  font-size: 1.2rem;
+  margin-bottom: 8px;
+}
+
+.donate-founding p {
+  margin-bottom: 0;
+}
+
+.donate-widget {
+  min-height: 400px;
+}
+
+.donate-widget .gfm-embed {
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+
+@media (max-width: 768px) {
+  .donate-grid {
+    grid-template-columns: 1fr;
+    gap: 32px;
+  }
+  .donate-section {
+    padding: 48px 0;
+  }
+}
