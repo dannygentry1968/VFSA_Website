@@ -596,3 +596,19 @@ p + p { margin-top: 16px; }
   }
   .report-cta__icon { font-size: 2.5rem; }
 }
+
+/* ---- Button Small Variant ---- */
+.btn--sm {
+  padding: 8px 18px;
+  font-size: .85rem;
+}
+
+/* ---- Nav Report Button Spacing ---- */
+nav .btn--primary {
+  margin-left: 8px;
+}
+
+/* ---- Footer Report Button ---- */
+.footer ul .btn {
+  margin-top: 8px;
+}
