@@ -535,3 +535,64 @@ p + p { margin-top: 16px; }
   .footer__grid { grid-template-columns: 1fr; }
   .stats { grid-template-columns: 1fr; }
 }
+
+/* ---- Report Incident CTA ---- */
+.report-cta {
+  background: var(--red);
+  padding: 48px 0;
+}
+.report-cta__inner {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+  background: rgba(255,255,255,.12);
+  border: 2px solid rgba(255,255,255,.25);
+  border-radius: var(--radius);
+  padding: 36px 40px;
+}
+.report-cta__icon {
+  font-size: 3rem;
+  flex-shrink: 0;
+  filter: grayscale(1) brightness(10);
+}
+.report-cta__content h2 {
+  color: var(--white);
+  font-size: 1.5rem;
+  margin-bottom: 8px;
+}
+.report-cta__content p {
+  color: rgba(255,255,255,.85);
+  margin-bottom: 8px;
+  line-height: 1.6;
+}
+.report-cta__privacy {
+  font-size: .85rem;
+  font-style: italic;
+  color: rgba(255,255,255,.7) !important;
+}
+.report-cta__action {
+  flex-shrink: 0;
+}
+.btn--report {
+  background: var(--white);
+  color: var(--red);
+  font-weight: 700;
+  font-size: 1.05rem;
+  padding: 14px 32px;
+  border-radius: var(--radius);
+  white-space: nowrap;
+  transition: var(--transition);
+  box-shadow: 0 4px 16px rgba(0,0,0,.2);
+}
+.btn--report:hover {
+  background: var(--navy);
+  color: var(--white);
+}
+@media (max-width: 768px) {
+  .report-cta__inner {
+    flex-direction: column;
+    text-align: center;
+    padding: 28px 24px;
+  }
+  .report-cta__icon { font-size: 2.5rem; }
+}
