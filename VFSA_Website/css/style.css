@@ -683,3 +683,95 @@ nav .btn--primary {
     padding: 48px 0;
   }
 }
+
+/* ---- Donate Button ---- */
+.btn--donate {
+  display: inline-block;
+  background: var(--red);
+  color: var(--white);
+  padding: 16px 36px;
+  font-size: 1.1rem;
+  font-weight: 700;
+  border-radius: var(--radius);
+  text-decoration: none;
+  transition: background 0.2s, transform 0.2s, box-shadow 0.2s;
+  box-shadow: 0 4px 15px rgba(200,16,46,0.35);
+  margin-top: 8px;
+}
+.btn--donate:hover {
+  background: #a30d28;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(200,16,46,0.5);
+  color: var(--white);
+}
+
+/* ---- Membership Coming Soon ---- */
+.membership-coming-soon {
+  text-align: center;
+  padding: 48px 24px;
+}
+.coming-soon-badge {
+  display: inline-block;
+  background: var(--red);
+  color: var(--white);
+  padding: 6px 20px;
+  border-radius: 20px;
+  font-weight: 700;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 16px;
+}
+.membership-coming-soon h3 {
+  font-size: 1.6rem;
+  color: var(--navy);
+  margin-bottom: 12px;
+}
+.membership-coming-soon p {
+  max-width: 640px;
+  margin: 0 auto 16px;
+  color: #555;
+  line-height: 1.7;
+}
+.coming-soon-cta {
+  background: linear-gradient(135deg, var(--navy) 0%, #1a2a4a 100%);
+  color: var(--white);
+  border-radius: var(--radius);
+  padding: 32px;
+  margin-top: 32px;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+.coming-soon-cta h4 {
+  color: var(--white);
+  font-size: 1.2rem;
+  margin-bottom: 12px;
+}
+.coming-soon-cta p {
+  color: rgba(255,255,255,0.85);
+  max-width: none;
+}
+.coming-soon-cta ul {
+  list-style: none;
+  padding: 0;
+  margin: 12px 0;
+}
+.coming-soon-cta ul li {
+  padding: 6px 0 6px 24px;
+  position: relative;
+  color: rgba(255,255,255,0.9);
+}
+.coming-soon-cta ul li::before {
+  content: "\2713";
+  color: var(--red);
+  font-weight: 700;
+  position: absolute;
+  left: 0;
+}
+.coming-soon-cta .btn--donate {
+  display: inline-block;
+  text-align: center;
+  width: 100%;
+}
