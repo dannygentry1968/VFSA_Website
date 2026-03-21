@@ -25,10 +25,10 @@
         <a href="index.html">Home</a>
         <a href="about.html">About</a>
         <a href="legislation.html">The Bill</a>
+        <a href="articles.html">Articles</a>
         <a href="faq.html">FAQ</a>
         <a href="get-involved.html">Get Involved</a>
-        <a href="report.html">Report Incident</a>
-          <a href="contact.html">Contact</a>
+        <a href="contact.html">Contact</a>
         <a href="get-involved.html" class="btn btn--primary">Join VFSA</a>
       </nav>
     </div>
@@ -51,22 +51,79 @@
       <p class="lead">VFSA membership provides revenue and political power. Every member is a constituent who can contact their state legislator.</p>
     </div>
     <div class="container">
-    <div class="membership-coming-soon">
-      <div class="coming-soon-badge">Coming Soon</div>
-      <h3>Membership Tiers Launching Soon</h3>
-      <p>We are building a robust membership program with tiers for individual educators, school chapters, district partners, and organizational allies. Formal membership with exclusive benefits will open once we reach our initial funding goal.</p>
-      <div class="coming-soon-cta">
-        <h4>Why Donate Now?</h4>
-        <p>Contributors of <strong>$50 or more</strong> before our official launch become <strong>Founding Members</strong> with lifetime benefits:</p>
-        <ul>
-          <li>Lifetime membership &mdash; no annual renewal fees, ever</li>
-          <li>Name on our Founding Members page</li>
-          <li>Eligibility for a seat on our Board of Directors</li>
-          <li>Priority access to all future membership benefits</li>
-        </ul>
-        <a href="https://www.gofundme.com/f/help-vfsa-make-schools-violencefree-zones" target="_blank" rel="noopener" class="btn btn--donate" style="margin-top:16px;">Become a Founding Member</a>
+      <div class="tier-grid">
+
+        <div class="tier">
+          <div class="tier__name">Individual Educator</div>
+          <div class="tier__price">$50 <span>/year</span></div>
+          <div class="tier__desc">Teachers, paraprofessionals, school staff, counselors</div>
+          <ul>
+            <li>Voting rights in VFSA elections</li>
+            <li>Weekly legislative newsletter</li>
+            <li>Advocacy toolkit &amp; resources</li>
+            <li>VFSA member pin</li>
+            <li>Member directory access</li>
+          </ul>
+          <a href="#" data-stripe-tier="individual" class="btn btn--navy stripe-checkout" style="width:100%;">Join Now</a>
+        </div>
+
+        <div class="tier tier--featured">
+          <div class="tier__name">Advocate</div>
+          <div class="tier__price">$100 <span>/year</span></div>
+          <div class="tier__desc">Parents, community members, retired educators</div>
+          <ul>
+            <li>Everything in Individual Educator</li>
+            <li>Annual conference discount</li>
+            <li>Priority access to webinars</li>
+            <li>Advocate recognition badge</li>
+            <li>Direct legislator contact tools</li>
+          </ul>
+          <a href="#" data-stripe-tier="advocate" class="btn btn--primary stripe-checkout" style="width:100%;">Join Now</a>
+        </div>
+
+        <div class="tier">
+          <div class="tier__name">School Chapter</div>
+          <div class="tier__price">$250 <span>/year</span></div>
+          <div class="tier__desc">Individual schools (covers up to 10 members)</div>
+          <ul>
+            <li>10 individual memberships included</li>
+            <li>Chapter organizing kit</li>
+            <li>School-level violence data report</li>
+            <li>VFSA banner for school display</li>
+            <li>Dedicated chapter support</li>
+          </ul>
+          <a href="#" data-stripe-tier="chapter" class="btn btn--navy stripe-checkout" style="width:100%;">Start a Chapter</a>
+        </div>
+
+        <div class="tier">
+          <div class="tier__name">District Partner</div>
+          <div class="tier__price">$1,000 <span>/year</span></div>
+          <div class="tier__desc">School districts, local unions</div>
+          <ul>
+            <li>50 individual memberships included</li>
+            <li>District-level violence data analysis</li>
+            <li>Legislative liaison support</li>
+            <li>Conference booth &amp; speaking slot</li>
+            <li>Partner recognition on website</li>
+          </ul>
+          <a href="#" data-stripe-tier="district" class="btn btn--navy stripe-checkout" style="width:100%;">Partner With Us</a>
+        </div>
+
+        <div class="tier">
+          <div class="tier__name">Organizational Ally</div>
+          <div class="tier__price">$2,500+ <span>/year</span></div>
+          <div class="tier__desc">State unions, education nonprofits, associations</div>
+          <ul>
+            <li>Unlimited individual memberships</li>
+            <li>Co-branding on state campaigns</li>
+            <li>Advisory council seat</li>
+            <li>Logo on all campaign materials</li>
+            <li>Custom partnership agreement</li>
+          </ul>
+          <a href="#" data-stripe-tier="organization" class="btn btn--navy stripe-checkout" style="width:100%;">Become an Ally</a>
+        </div>
+
       </div>
-    </div>
     </div>
   </section>
 
@@ -193,18 +250,19 @@
           <ul>
             <li><a href="about.html">About VFSA</a></li>
             <li><a href="legislation.html">The Bill</a></li>
-            <li><a href="faq.html">FAQ</a></li>
+            <li><a href="articles.html">Articles</a>
+        <a href="faq.html">FAQ</a></li>
             <li><a href="get-involved.html">Get Involved</a></li>
-            <li><a href="report.html">Report Incident</a>
-          <a href="contact.html">Contact</a></li>
+            <li><a href="contact.html">Contact</a></li>
           </ul>
         </div>
         <div>
           <h4>Resources</h4>
           <ul>
             <li><a href="legislation.html">Model Legislation</a></li>
+            <li><a href="articles.html">Articles &amp; Information</a></li>
             <li><a href="faq.html">Q&amp;A Document</a></li>
-            <li><a href="get-involved.html#membership">Membership (Coming Soon)</a></li>
+            <li><a href="get-involved.html#membership">Membership Tiers</a></li>
           </ul>
         </div>
         <div>
@@ -227,6 +285,6 @@
     </div>
   </footer>
 
-  <script src="js/main.js?v=1773335495"></script>
+  <script src="js/main.js"></script>
 </body>
 </html>
