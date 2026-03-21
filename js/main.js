@@ -5,8 +5,7 @@ const VFSA_CONFIG = {
   // n8n webhook URLs — update these after creating n8n workflows
   webhooks: {
     contact: 'https://dannygentry.duckdns.org/n8n/webhook/vfsa-contact',
-    newsletter: 'https://dannygentry.duckdns.org/n8n/webhook/vfsa-newsletter',
-            report: 'https://dannygentry.duckdns.org/n8n/webhook/vfsa-report'
+    newsletter: 'https://dannygentry.duckdns.org/n8n/webhook/vfsa-newsletter'
   },
   // Stripe payment links — update these after running stripe-full-setup.sh
   stripe: {
@@ -232,44 +231,3 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
 });
-
-// ---- Incident Report form handler ----
-const reportForm = document.getElementById('reportForm');
-if (reportForm) {
-  reportForm.addEventListener('submit', async (e) => {
-    e.preventDefault();
-    const btn = reportForm.querySelector('button[type="submit"]');
-    const originalText = btn.textContent;
-    btn.textContent = 'Submitting...';
-    btn.disabled = true;
-    const formData = {
-      incidentType: reportForm.querySelector('#incidentType').value,
-      schoolLevel: reportForm.querySelector('#schoolLevel').value,
-      reporterRole: reportForm.querySelector('#reporterRole').value,
-      state: reportForm.querySelector('#reportState').value,
-      timeframe: reportForm.querySelector('#timeframe').value,
-      outcome: reportForm.querySelector('#outcome').value,
-      narrative: reportForm.querySelector('#narrative').value,
-      impact: reportForm.querySelector('#impact').value,
-      timestamp: new Date().toISOString(),
-      source: 'incident-report'
-    };
-    try {
-      const response = await fetch(VFSA_CONFIG.webhooks.report, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(formData)
-      });
-      if (response.ok) {
-        btn.textContent = 'Report Submitted — Thank You';
-        btn.style.background = '#27ae60';
-        reportForm.reset();
-        setTimeout(() => { btn.textContent = originalText; btn.style.background = ''; btn.disabled = false; }, 5000);
-      } else { throw new Error('Server error'); }
-    } catch (err) {
-      btn.textContent = 'Error — Try Again';
-      btn.style.background = '#C0392B';
-      setTimeout(() => { btn.textContent = originalText; btn.style.background = ''; btn.disabled = false; }, 3000);
-    }
-  });
-}
