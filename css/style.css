@@ -535,3 +535,363 @@ p + p { margin-top: 16px; }
   .footer__grid { grid-template-columns: 1fr; }
   .stats { grid-template-columns: 1fr; }
 }
+
+/* ===== ARTICLE PAGES ===== */
+
+/* ---- Article Hero Banner ---- */
+.hero--small { padding: 60px 0 50px; }
+.article-hero {
+  background: linear-gradient(135deg, var(--navy) 0%, var(--slate) 100%);
+  color: var(--white);
+  padding: 60px 0 50px;
+  position: relative;
+  overflow: hidden;
+}
+.article-hero::before {
+  content: '';
+  position: absolute;
+  top: -50%;
+  right: -20%;
+  width: 600px;
+  height: 600px;
+  background: radial-gradient(circle, rgba(192,57,43,.12) 0%, transparent 70%);
+  border-radius: 50%;
+}
+.article-hero h1 { color: var(--white); margin-bottom: 12px; max-width: 800px; }
+.article-hero__subtitle { color: rgba(255,255,255,.8); font-size: 1.1rem; margin-bottom: 20px; }
+.article-meta {
+  display: flex;
+  gap: 24px;
+  align-items: center;
+  font-size: .9rem;
+  color: rgba(255,255,255,.7);
+  flex-wrap: wrap;
+}
+.article-meta__type {
+  background: rgba(255,255,255,.15);
+  padding: 4px 12px;
+  border-radius: 20px;
+  text-transform: uppercase;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  font-size: .75rem;
+}
+.article-meta__date { color: rgba(255,255,255,.7); }
+
+/* ---- Breadcrumb ---- */
+.breadcrumb {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 28px;
+  font-size: .9rem;
+  color: rgba(255,255,255,.75);
+}
+.breadcrumb a { color: rgba(255,255,255,.75); }
+.breadcrumb a:hover { color: var(--white); }
+.breadcrumb__sep { color: rgba(255,255,255,.5); }
+
+/* ---- Article Body Container ---- */
+.container--article {
+  max-width: 900px;
+}
+.article-body {
+  padding: 80px 0;
+}
+.article-body h2 {
+  font-size: 1.8rem;
+  color: var(--navy);
+  margin-top: 48px;
+  margin-bottom: 20px;
+  padding-bottom: 12px;
+  border-bottom: 3px solid var(--red);
+  display: inline-block;
+}
+.article-body h3 {
+  font-size: 1.35rem;
+  color: var(--navy);
+  margin-top: 36px;
+  margin-bottom: 16px;
+}
+.article-body p {
+  font-size: 1.05rem;
+  line-height: 1.85;
+  color: var(--text);
+  margin-bottom: 16px;
+}
+.article-body p + p { margin-top: 16px; }
+.article-body ul,
+.article-body ol {
+  margin: 24px 0 24px 24px;
+  font-size: 1.05rem;
+  line-height: 1.8;
+  color: var(--text);
+}
+.article-body ul li,
+.article-body ol li {
+  margin-bottom: 12px;
+  padding-left: 8px;
+}
+.article-body ul li { list-style: disc; }
+.article-body ol li { list-style: decimal; }
+.article-body blockquote {
+  border-left: 4px solid var(--red);
+  padding: 20px 24px;
+  margin: 32px 0;
+  background: var(--light);
+  border-radius: 0 var(--radius) var(--radius) 0;
+  font-style: italic;
+  font-size: 1.05rem;
+  color: var(--navy);
+}
+
+/* ---- Article Table ---- */
+.article-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 32px 0;
+  font-size: 0.95rem;
+  box-shadow: var(--shadow);
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+.article-table thead {
+  background: var(--navy);
+  color: var(--white);
+}
+.article-table th {
+  padding: 16px;
+  text-align: left;
+  font-weight: 600;
+  border-bottom: 2px solid var(--red);
+}
+.article-table td {
+  padding: 14px 16px;
+  border-bottom: 1px solid #E8ECF3;
+  color: var(--text);
+}
+.article-table tbody tr:hover {
+  background: var(--light);
+}
+.article-table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* ---- References List ---- */
+.references-list {
+  max-width: 100%;
+  margin: 32px 0;
+  padding-left: 24px;
+  font-size: 0.9rem;
+  color: var(--text-light);
+  line-height: 1.9;
+}
+.references-list li {
+  margin-bottom: 16px;
+  padding-left: 12px;
+  list-style: decimal;
+}
+
+/* ---- Table of Contents ---- */
+.toc {
+  background: var(--light);
+  padding: 28px;
+  border-radius: var(--radius);
+  margin-bottom: 48px;
+  border-left: 4px solid var(--navy);
+}
+.toc h3 {
+  color: var(--navy);
+  margin-bottom: 16px;
+  font-size: 1.2rem;
+}
+.toc ul { margin: 0; padding-left: 24px; }
+.toc ul li {
+  list-style: disc;
+  margin-bottom: 10px;
+  font-size: 0.95rem;
+}
+.toc a {
+  color: var(--slate);
+  text-decoration: none;
+}
+.toc a:hover { color: var(--red); }
+
+/* ---- Article Cards (for articles.html) ---- */
+.articles-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
+  gap: 32px;
+  padding: 40px 0;
+}
+.article-card {
+  background: var(--white);
+  border-radius: var(--radius);
+  padding: 32px;
+  box-shadow: var(--shadow);
+  border-top: 4px solid var(--navy);
+  transition: all var(--transition);
+  display: flex;
+  flex-direction: column;
+}
+.article-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 32px rgba(27,42,74,.15);
+}
+.article-card__header { margin-bottom: 16px; }
+.article-card__header h2 {
+  font-size: 1.35rem;
+  color: var(--navy);
+  margin: 0;
+  border: none;
+  padding: 0;
+}
+.article-card__header a {
+  color: var(--navy);
+  text-decoration: none;
+}
+.article-card__header a:hover { color: var(--red); }
+.article-card__description {
+  font-size: 0.95rem;
+  color: var(--text-light);
+  line-height: 1.7;
+  margin-bottom: 20px;
+  flex-grow: 1;
+}
+.article-card__meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 16px;
+  border-bottom: 1px solid #E8ECF3;
+  margin-bottom: 16px;
+  font-size: 0.85rem;
+}
+.article-card__tag {
+  background: var(--light);
+  color: var(--navy);
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  font-size: 0.75rem;
+}
+.article-card__date {
+  color: var(--silver);
+  font-weight: 500;
+}
+.article-card__link {
+  color: var(--red);
+  font-weight: 600;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  transition: all var(--transition);
+}
+.article-card__link:hover {
+  gap: 10px;
+  color: #A93226;
+}
+
+/* ---- GoFundMe CTA Section ---- */
+.gofundme-cta {
+  background: var(--light);
+  padding: 60px 0;
+  margin-top: 80px;
+  text-align: center;
+}
+.gofundme-cta__content {
+  max-width: 700px;
+  margin: 0 auto;
+}
+.gofundme-cta h2 {
+  color: var(--navy);
+  margin-bottom: 16px;
+}
+.gofundme-cta p {
+  color: var(--text-light);
+  font-size: 1rem;
+  line-height: 1.7;
+  margin-bottom: 28px;
+}
+.gofundme-cta .btn--primary {
+  padding: 16px 40px;
+  font-size: 1rem;
+}
+
+/* ---- Sticky GoFundMe Button ---- */
+.gofundme-sticky {
+  position: fixed;
+  bottom: 28px;
+  right: 28px;
+  background: var(--red);
+  color: var(--white);
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 2px;
+  box-shadow: 0 4px 16px rgba(192,57,43,.35);
+  transition: all var(--transition);
+  text-decoration: none;
+  font-size: 0.7rem;
+  font-weight: 600;
+  z-index: 90;
+  text-align: center;
+  line-height: 1;
+}
+.gofundme-sticky:hover {
+  background: #A93226;
+  transform: scale(1.1);
+  box-shadow: 0 6px 20px rgba(192,57,43,.45);
+}
+.gofundme-sticky__icon { font-size: 1.6rem; }
+.gofundme-sticky__text { font-size: 0.7rem; }
+
+/* ---- Responsive Article Pages ---- */
+@media (max-width: 768px) {
+  .article-hero { padding: 48px 0 40px; }
+  .article-hero h1 { font-size: 1.8rem; }
+  .article-body { padding: 60px 0; }
+  .article-body h2 { font-size: 1.5rem; }
+  .article-body h3 { font-size: 1.2rem; }
+  .article-body p { font-size: 1rem; }
+  .articles-grid { grid-template-columns: 1fr; gap: 24px; }
+  .article-card { padding: 24px; }
+  .article-meta { flex-direction: column; align-items: flex-start; gap: 12px; }
+  .toc { padding: 20px; margin-bottom: 32px; }
+  .toc h3 { font-size: 1rem; }
+  .toc ul li { font-size: 0.9rem; }
+  .article-table { font-size: 0.85rem; }
+  .article-table th,
+  .article-table td { padding: 12px 8px; }
+  .gofundme-sticky {
+    bottom: 16px;
+    right: 16px;
+    width: 50px;
+    height: 50px;
+  }
+  .gofundme-sticky__icon { font-size: 1.3rem; }
+}
+@media (max-width: 480px) {
+  .article-hero h1 { font-size: 1.5rem; }
+  .article-hero__subtitle { font-size: 1rem; }
+  .article-body h2 { font-size: 1.3rem; }
+  .article-body h3 { font-size: 1.1rem; }
+  .article-body p { font-size: 0.95rem; }
+  .breadcrumb { font-size: 0.8rem; margin-bottom: 20px; }
+  .articles-grid { gap: 16px; }
+  .article-card__meta { flex-direction: column; align-items: flex-start; }
+  .gofundme-cta h2 { font-size: 1.5rem; }
+  .gofundme-sticky {
+    bottom: 12px;
+    right: 12px;
+    width: 48px;
+    height: 48px;
+  }
+}
