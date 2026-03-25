@@ -1,12 +1,12 @@
 # Violence-Free Schools Alliance (VFSA) Website
 
-The official website for the Violence-Free Schools Alliance — the first national organization dedicated to passing Educator's Bill of Rights legislation in every state and at the federal level.
+The official website for the Violence-Free Schools Alliance — the first national organization dedicated to passing Violence-Free Schools Act legislation in every state and at the federal level.
 
 ## Pages
 
 - **Home** — Hero, stats, mission overview, key messages
 - **About** — Mission, vision, core values, strategic approach
-- **The Bill** — Educator's Bill of Rights model legislation summary
+- **The Bill** — Violence-Free Schools Act model legislation summary
 - **FAQ** — Comprehensive Q&A covering scope, SPED, equity, implementation
 - **Get Involved** — Membership tiers, volunteer opportunities, legislative roadmap
 - **Contact** — Contact form, email addresses, newsletter signup
