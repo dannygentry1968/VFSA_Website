@@ -40,17 +40,25 @@
     return 'Updated ' + d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
   }
 
-  function imageBlock(article, fallbackLetter) {
-    const letter = (fallbackLetter || (article.source || 'V').charAt(0)).toUpperCase();
-    const fallback = '<div class="news-card__image-fallback">' + escapeHtml(letter) + '</div>';
+  function fallbackMarkup(article) {
+    const source = article.source || 'VFSA';
+    return (
+      '<div class="news-card__image-fallback">' +
+        '<div class="news-card__fallback-badge">V</div>' +
+        '<div class="news-card__fallback-source">' + escapeHtml(source) + '</div>' +
+      '</div>'
+    );
+  }
+
+  function imageBlock(article) {
     if (article.image) {
       return (
         '<img src="' + escapeHtml(article.image) + '" alt="' + escapeHtml(article.image_alt || article.headline || '') +
         '" loading="lazy" onerror="this.style.display=\'none\';this.nextElementSibling.style.display=\'flex\'">' +
-        '<div class="news-card__image-fallback" style="display:none;">' + escapeHtml(letter) + '</div>'
+        fallbackMarkup(article).replace('class="news-card__image-fallback"', 'class="news-card__image-fallback" style="display:none;"')
       );
     }
-    return fallback;
+    return fallbackMarkup(article);
   }
 
   function categoryClass(cat) {
