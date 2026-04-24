@@ -1,6 +1,90 @@
 {
-  "updated": "2026-04-23T18:00:00Z",
+  "updated": "2026-04-24T04:47:38Z",
   "articles": [
+    {
+      "id": "2026-04-23-swansea-parents-arraigned-gun-second-grader",
+      "headline": "Swansea parents arraigned after second-grader allegedly brought gun to school",
+      "source": "Boston.com",
+      "source_url": "https://www.boston.com",
+      "date": "2026-04-23",
+      "url": "https://www.boston.com/news/crime/2026/04/23/swansea-parents-arraigned-after-second-grader-allegedly-brought-gun-to-school/",
+      "image": "",
+      "image_alt": "Fall River District Court, Massachusetts",
+      "excerpt": "Christopher and Heather Spangler of Swansea were each arraigned Wednesday on 13 firearm and child-endangerment charges after police say their second-grader brought a handgun to Hoyle Elementary School in his backpack. Both pleaded not guilty and were ordered to surrender all firearms.",
+      "category": "Response",
+      "state": "MA",
+      "featured": false
+    },
+    {
+      "id": "2026-04-22-dekalb-mlk-high-teacher-student-fight",
+      "headline": "Three MLK High School students charged with battery after fighting teacher",
+      "source": "Decaturish",
+      "source_url": "https://www.decaturish.com",
+      "date": "2026-04-22",
+      "url": "https://www.decaturish.com/news/dekalb/three-mlk-high-school-students-charged-with-battery-after-fighting-teacher/article_2b9186a4-4336-5155-8e4f-1a129c8fe736.html",
+      "image": "",
+      "image_alt": "Dr. Martin Luther King Jr. High School entrance sign",
+      "excerpt": "Three students at Dr. Martin Luther King Jr. High School in DeKalb County, Georgia were charged with battery and disrupting public school after a hallway fight with a veteran teacher on April 22. Video of the incident circulated widely on social media and is being used by district investigators.",
+      "category": "Incident",
+      "state": "GA",
+      "featured": true
+    },
+    {
+      "id": "2026-04-22-south-sioux-city-ai-hoax-lockdown",
+      "headline": "AI phone call prompts lockdown at South Sioux City High School, police say",
+      "source": "KTIV (NBC)",
+      "source_url": "https://www.ktiv.com",
+      "date": "2026-04-22",
+      "url": "https://www.ktiv.com/2026/04/22/ai-phone-call-prompts-lockdown-south-sioux-city-high-school-police-say/",
+      "image": "",
+      "image_alt": "South Sioux City High School exterior",
+      "excerpt": "An AI-generated phone call claiming a pipe bomb in the building and a shotgun on campus triggered a lockdown at South Sioux City High School on April 22. Police, sheriff's deputies, and Nebraska State Patrol cleared the school within an hour. No threat was found.",
+      "category": "Analysis",
+      "state": "NE",
+      "featured": false
+    },
+    {
+      "id": "2026-04-22-santa-maria-righetti-loaded-gun-arrest",
+      "headline": "Student arrested at Righetti High School with loaded handgun, second such arrest this school year",
+      "source": "KCLU (NPR)",
+      "source_url": "https://www.kclu.org",
+      "date": "2026-04-22",
+      "url": "https://www.kclu.org/2026-04-22/detectives-say-student-arrested-at-central-coast-high-school-was-in-possession-of-loaded-gun",
+      "image": "",
+      "image_alt": "Righetti High School campus in Santa Maria",
+      "excerpt": "An 18-year-old student was arrested at Righetti High School in Santa Maria on April 22 after a school resource deputy serving an unrelated warrant discovered a loaded handgun in his possession. He was booked on felony possession of a firearm on school grounds.",
+      "category": "Incident",
+      "state": "CA",
+      "featured": false
+    },
+    {
+      "id": "2026-04-21-grissom-high-weapon-detection-arrest",
+      "headline": "Grissom High School student arrested after weapons-detection system flags pistol at entrance",
+      "source": "WAFF (NBC)",
+      "source_url": "https://www.waff.com",
+      "date": "2026-04-21",
+      "url": "https://www.waff.com/2026/04/21/grissom-high-school-student-arrested-with-weapon-school/",
+      "image": "",
+      "image_alt": "Grissom High School in Huntsville, Alabama",
+      "excerpt": "A 16-year-old Grissom High School junior was arrested April 21 after Huntsville's campus weapons-detection system flagged a handgun in his backpack as he tried to enter. The student never made it inside and has been charged with unlawful possession of a pistol by a minor.",
+      "category": "Incident",
+      "state": "AL",
+      "featured": false
+    },
+    {
+      "id": "2026-04-20-valley-forge-hs-cafeteria-shooting",
+      "headline": "Dozens of first responders flood Valley Forge High School after cafeteria shooting",
+      "source": "Cleveland 19 News (CBS)",
+      "source_url": "https://www.cleveland19.com",
+      "date": "2026-04-20",
+      "url": "https://www.cleveland19.com/2026/04/20/dozens-first-responders-flood-valley-forge-high-school-parma-heights/",
+      "image": "",
+      "image_alt": "Emergency responders at Valley Forge High School",
+      "excerpt": "A student died after a shooting in the cafeteria of Valley Forge High School in Parma Heights, Ohio on April 20. The incident prompted an immediate lockdown and response from dozens of first responders from across the region.",
+      "category": "Incident",
+      "state": "OH",
+      "featured": false
+    },
     {
       "id": "2026-04-15-oklahoma-principal-tackles-gunman",
       "headline": "Oklahoma principal shot in leg is praised for tackling school shooter: 'He is a hero'",
@@ -13,7 +97,21 @@
       "excerpt": "Principal Kirk Moore tackled a 20-year-old gunman at Pauls Valley High School on April 7, disarming him with the help of an assistant principal. Moore was shot in the leg during the struggle but held the suspect until police arrived.",
       "category": "Incident",
       "state": "OK",
-      "featured": true
+      "featured": false
+    },
+    {
+      "id": "2026-04-15-sc-student-violence-teachers-quit-analysis",
+      "headline": "Student violence causes SC teachers to quit. Legislators are working on a solution.",
+      "source": "SC Daily Gazette",
+      "source_url": "https://scdailygazette.com",
+      "date": "2026-04-15",
+      "url": "https://scdailygazette.com/2026/04/15/student-violence-causes-sc-teachers-to-quit-legislators-are-working-on-a-solution/",
+      "image": "",
+      "image_alt": "South Carolina State House",
+      "excerpt": "South Carolina educators are leaving the profession over escalating student violence, with reports of concussions, torn tendons, and one miscarriage caused by student assaults. A House bill to remove repeatedly violent students stalled in committee over equity concerns.",
+      "category": "Analysis",
+      "state": "SC",
+      "featured": false
     },
     {
       "id": "2026-04-09-louisiana-teacher-shield-act-advances",
@@ -42,77 +140,9 @@
       "category": "Policy",
       "state": "VA",
       "featured": false
-    },
-    {
-      "id": "2026-03-30-bulverde-teacher-shot-hill-country-prep",
-      "headline": "Student dead after shooting teacher at Hill Country Preparatory High School in Comal ISD",
-      "source": "KSAT (NBC)",
-      "source_url": "https://www.ksat.com",
-      "date": "2026-03-30",
-      "url": "https://www.ksat.com/news/local/2026/03/30/shooting-reported-at-hill-country-preparatory-college-high-school-in-comal-isd-comal-county-sheriffs-office-says/",
-      "image": "",
-      "image_alt": "Law enforcement at the scene of a school shooting",
-      "excerpt": "A 15-year-old student shot a teacher at Hill Country College Preparatory High School in Bulverde, Texas on March 30, then turned the gun on himself, according to the Comal County Sheriff's Office. The teacher survived with injuries.",
-      "category": "Incident",
-      "state": "TX",
-      "featured": false
-    },
-    {
-      "id": "2026-03-11-newburgh-free-academy-teacher-assaulted",
-      "headline": "Teacher hospitalized after student altercation at Newburgh Free Academy",
-      "source": "News 12 Hudson Valley",
-      "source_url": "https://hudsonvalley.news12.com",
-      "date": "2026-03-11",
-      "url": "https://hudsonvalley.news12.com/teacher-hospitalized-after-student-altercation-at-newburgh-free-academy",
-      "image": "",
-      "image_alt": "Newburgh Free Academy campus",
-      "excerpt": "A teacher at Newburgh Free Academy in New York was hospitalized at Montefiore St. Luke's Cornwall Hospital after being assaulted by a student during what the district called a 'mental health episode.' Police and emergency services responded to the 11:30 a.m. classroom incident.",
-      "category": "Incident",
-      "state": "NY",
-      "featured": false
-    },
-    {
-      "id": "2026-03-23-ksat-texas-classroom-violence-investigation",
-      "headline": "From chaos to fear: How classroom violence is affecting students and teachers",
-      "source": "KSAT Investigates",
-      "source_url": "https://www.ksat.com",
-      "date": "2026-03-23",
-      "url": "https://www.ksat.com/news/ksat-investigates/2026/03/23/from-chaos-to-fear-how-classroom-violence-is-affecting-students-and-teachers/",
-      "image": "",
-      "image_alt": "Texas classroom with desks",
-      "excerpt": "KSAT's investigative team documents how classroom violence is pushing experienced Texas educators out of the profession. Teachers describe being grabbed, kicked, punched, spat at, and threatened. Texas has lost nearly 5,000 teachers over the past two school years.",
-      "category": "Analysis",
-      "state": "TX",
-      "featured": false
-    },
-    {
-      "id": "2026-04-20-valley-forge-hs-cafeteria-shooting",
-      "headline": "Dozens of first responders flood Valley Forge High School after cafeteria shooting",
-      "source": "Cleveland 19 News (CBS)",
-      "source_url": "https://www.cleveland19.com",
-      "date": "2026-04-20",
-      "url": "https://www.cleveland19.com/2026/04/20/dozens-first-responders-flood-valley-forge-high-school-parma-heights/",
-      "image": "",
-      "image_alt": "Emergency responders at Valley Forge High School",
-      "excerpt": "A student died after a shooting in the cafeteria of Valley Forge High School in Parma Heights, Ohio on April 20. The incident prompted an immediate lockdown and response from dozens of first responders from across the region.",
-      "category": "Incident",
-      "state": "OH",
-      "featured": false
-    },
-    {
-      "id": "2026-04-01-south-carolina-educator-safety-act-introduced",
-      "headline": "South Carolina lawmakers introduce 'Educator Safety and Classroom Authority Act of 2026'",
-      "source": "South Carolina Legislature",
-      "source_url": "https://www.scstatehouse.gov",
-      "date": "2026-04-01",
-      "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5483.htm",
-      "image": "",
-      "image_alt": "South Carolina State House",
-      "excerpt": "House Bill 5483, the Educator Safety and Classroom Authority Act of 2026, was introduced April 1 and referred to the House Committee on Education and Public Works. The bill establishes educator authority in classroom discipline and protections from disruptive and violent student behavior.",
-      "category": "Policy",
-      "state": "SC",
-      "featured": false
-    },
+    }
+  ],
+  "archive": [
     {
       "id": "2026-04-09-splendora-teacher-hoax-lockdown",
       "headline": "Teacher charged after hoax triggers lockdown at Splendora High School, sheriff says",
@@ -140,7 +170,34 @@
       "category": "Policy",
       "state": "LA",
       "featured": false
+    },
+    {
+      "id": "2026-04-01-south-carolina-educator-safety-act-introduced",
+      "headline": "South Carolina lawmakers introduce 'Educator Safety and Classroom Authority Act of 2026'",
+      "source": "South Carolina Legislature",
+      "source_url": "https://www.scstatehouse.gov",
+      "date": "2026-04-01",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/bills/5483.htm",
+      "image": "",
+      "image_alt": "South Carolina State House",
+      "excerpt": "House Bill 5483, the Educator Safety and Classroom Authority Act of 2026, was introduced April 1 and referred to the House Committee on Education and Public Works. The bill establishes educator authority in classroom discipline and protections from disruptive and violent student behavior.",
+      "category": "Policy",
+      "state": "SC",
+      "featured": false
+    },
+    {
+      "id": "2026-03-30-bulverde-teacher-shot-hill-country-prep",
+      "headline": "Student dead after shooting teacher at Hill Country Preparatory High School in Comal ISD",
+      "source": "KSAT (NBC)",
+      "source_url": "https://www.ksat.com",
+      "date": "2026-03-30",
+      "url": "https://www.ksat.com/news/local/2026/03/30/shooting-reported-at-hill-country-preparatory-college-high-school-in-comal-isd-comal-county-sheriffs-office-says/",
+      "image": "",
+      "image_alt": "Law enforcement at the scene of a school shooting",
+      "excerpt": "A 15-year-old student shot a teacher at Hill Country College Preparatory High School in Bulverde, Texas on March 30, then turned the gun on himself, according to the Comal County Sheriff's Office. The teacher survived with injuries.",
+      "category": "Incident",
+      "state": "TX",
+      "featured": false
     }
-  ],
-  "archive": []
+  ]
 }
