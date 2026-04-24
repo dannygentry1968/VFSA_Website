@@ -3,8 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Articles & Information | Violence-Free Schools Alliance</title>
-  <meta name="description" content="VFSA research, white papers, and articles on school violence, educator safety, and the Violence-Free Schools Act.">
+  <title>School Violence In The News | Violence-Free Schools Alliance</title>
+  <meta name="description" content="Daily curated coverage of school violence in the news. Stories, incidents, policy updates, and responses from across America — updated every day by VFSA.">
+  <meta property="og:title" content="School Violence In The News | VFSA">
+  <meta property="og:description" content="Daily curated coverage of school violence in the news, updated every day.">
+  <meta property="og:type" content="website">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/style.css">
@@ -27,7 +30,7 @@
         <a href="legislation.html">The Bill</a>
         <a href="articles.html">Articles</a>
         <a href="blog.html">Blog</a>
-        <a href="news.html">News</a>
+        <a href="news.html" class="active">News</a>
         <a href="faq.html">FAQ</a>
         <a href="get-involved.html">Get Involved</a>
         <a href="contact.html">Contact</a>
@@ -39,54 +42,34 @@
   <!-- Hero Section -->
   <section class="hero hero--small">
     <div class="container">
-      <span class="section-label">Research &amp; Publications</span>
-      <h1>Articles &amp; Information</h1>
-      <p>VFSA publishes research, white papers, and in-depth articles on school violence, educator safety, and the case for legislative reform.</p>
+      <span class="section-label">Daily Curated Coverage</span>
+      <h1>School Violence In The News</h1>
+      <p>Real stories from across America — incidents, policy responses, educator voices, and the fight for safer schools. Updated every day.</p>
     </div>
   </section>
 
-  <!-- Articles Grid -->
+  <!-- Meta bar: last updated + article count -->
+  <div class="news-meta-bar">
+    <div class="container news-meta-bar__inner">
+      <span class="news-meta-bar__live">
+        <span class="news-live-dot"></span>
+        Live — updated daily
+      </span>
+      <span id="news-updated">Loading latest coverage&hellip;</span>
+    </div>
+  </div>
+
+  <!-- News Content -->
   <section class="section">
     <div class="container">
-      <div class="articles-grid">
-        <!-- Article Card 1: White Paper -->
-        <article class="article-card">
-          <div class="article-card__header">
-            <h2><a href="articles/white-paper.html">The State of School Violence in America — 2026</a></h2>
-          </div>
-          <p class="article-card__description">A comprehensive white paper examining the scope, human cost, and economic impact of violence in American schools. Includes federal data, case studies, policy analysis, and the VFSA legislative proposal.</p>
-          <div class="article-card__meta">
-            <span class="article-card__tag">VFSA White Paper</span>
-            <span class="article-card__date">March 2026</span>
-          </div>
-          <a href="articles/white-paper.html" class="article-card__link">Read Article →</a>
-        </article>
-
-        <!-- Article Card 2: Workplace Violence Report -->
-        <article class="article-card">
-          <div class="article-card__header">
-            <h2><a href="articles/workplace-violence-report.html">Under Siege: Workplace Violence Against America's Educators</a></h2>
-          </div>
-          <p class="article-card__description">A cross-profession comparative analysis of workplace violence rates, regulatory frameworks, and outcomes. Draws on BLS, NCES, APA, and NEA data to demonstrate why the legislative gap facing educators is both unique and urgent.</p>
-          <div class="article-card__meta">
-            <span class="article-card__tag">Research Report</span>
-            <span class="article-card__date">April 2026</span>
-          </div>
-          <a href="articles/workplace-violence-report.html" class="article-card__link">Read Article →</a>
-        </article>
-
-        <!-- Article Card 3: Educator Violence -->
-        <article class="article-card">
-          <div class="article-card__header">
-            <h2><a href="articles/educator-violence.html">The Educators No One Is Protecting</a></h2>
-          </div>
-          <p class="article-card__description">Violence against teachers, IDEA discipline protections, and the special education staffing crisis. This research article explores how current policies fail educators and proposes legislative solutions.</p>
-          <div class="article-card__meta">
-            <span class="article-card__tag">Research Article</span>
-            <span class="article-card__date">2026</span>
-          </div>
-          <a href="articles/educator-violence.html" class="article-card__link">Read Article →</a>
-        </article>
+      <div id="news-container">
+        <div class="news-empty">
+          <h3>Loading coverage&hellip;</h3>
+          <p>If this message persists, news data may be temporarily unavailable. Please check back shortly.</p>
+        </div>
+      </div>
+      <div class="news-archive-footer">
+        <a href="news-archive.html">Browse the 30-day archive &rarr;</a>
       </div>
     </div>
   </section>
@@ -96,7 +79,7 @@
     <div class="container">
       <div class="gofundme-cta__content">
         <h2>Support Our Mission</h2>
-        <p>Help VFSA fund the fight for safe schools and educator protections. Your support enables us to research policy, engage legislators, and advocate for change.</p>
+        <p>Every story you read here is why VFSA exists. Help us fund the fight for educator safety and violence-free schools across America.</p>
         <a href="https://www.gofundme.com/f/help-vfsa-make-schools-violencefree-zones" class="btn btn--primary" target="_blank" rel="noopener noreferrer">Donate to Fund the Fight</a>
       </div>
     </div>
@@ -129,6 +112,8 @@
           <ul>
             <li><a href="legislation.html">Model Legislation</a></li>
             <li><a href="articles.html">Articles &amp; Information</a></li>
+            <li><a href="blog.html">Blog</a></li>
+            <li><a href="news.html">News Coverage</a></li>
             <li><a href="faq.html">Q&amp;A Document</a></li>
             <li><a href="https://www.gofundme.com/f/help-vfsa-make-schools-violencefree-zones" target="_blank" rel="noopener">Donate</a></li>
           </ul>
@@ -150,10 +135,11 @@
 
   <!-- Sticky GoFundMe Button -->
   <a href="https://www.gofundme.com/f/help-vfsa-make-schools-violencefree-zones" class="gofundme-sticky" target="_blank" rel="noopener noreferrer" aria-label="Support Our Mission on GoFundMe">
-    <span class="gofundme-sticky__icon">❤️</span>
+    <span class="gofundme-sticky__icon">&#10084;&#65039;</span>
     <span class="gofundme-sticky__text">Support</span>
   </a>
 
   <script src="js/main.js"></script>
+  <script src="js/news.js"></script>
 </body>
 </html>
