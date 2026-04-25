@@ -1,6 +1,20 @@
 {
-  "updated": "2026-04-24T04:47:38Z",
+  "updated": "2026-04-25T19:22:58Z",
   "articles": [
+    {
+      "id": "2026-04-24-painesville-riverside-gun-arrest",
+      "headline": "Painesville Riverside High School student arrested after being found with gun in school, officials say",
+      "source": "WKYC (NBC)",
+      "source_url": "https://www.wkyc.com",
+      "date": "2026-04-24",
+      "url": "https://www.wkyc.com/article/news/local/lake-county/riverside-high-school-lock-down-student-found-with-gun-threatening-social-media-post-lake-county-sheriffs-office/95-90094179-74fb-40d1-9df6-38234de8675b",
+      "image": "https://media.wkyc.com/assets/WKYC/images/b3aa5c05-217b-4abd-9ed7-ad3c8a40c47e/20260425T020051/b3aa5c05-217b-4abd-9ed7-ad3c8a40c47e_1140x641.jpg",
+      "image_alt": "Riverside High School in Painesville, Ohio",
+      "excerpt": "A Riverside High School student was arrested April 24 after administrators received a tip about a threatening image posted to social media from inside the school. Lake County deputies found the student in a classroom with a firearm. The lockdown was lifted within 22 minutes; no one was injured.",
+      "category": "Incident",
+      "state": "OH",
+      "featured": false
+    },
     {
       "id": "2026-04-23-swansea-parents-arraigned-gun-second-grader",
       "headline": "Swansea parents arraigned after second-grader allegedly brought gun to school",
@@ -122,23 +136,9 @@
       "url": "https://www.wwltv.com/article/news/local/local-politics/teacher-shield-act-gains-ground-in-louisiana-legislature-school-safety-bill-candace-newell-senate-house/289-575e2cce-3d58-49c7-a1db-9ff177dccaf5",
       "image": "https://media.wwltv.com/assets/WWL/images/f2502e9d-6dfc-4541-b33d-44d32fd1bc41/20260410T032625/f2502e9d-6dfc-4541-b33d-44d32fd1bc41_1140x641.jpg",
       "image_alt": "Louisiana State Capitol Building",
-      "excerpt": "Louisiana House Bill 283 \u2014 the Teacher Shield Act \u2014 cleared the House on April 8 and is now under Senate review. The bill would require immediate removal and alternative placement for students who assault teachers, plus expanded leave for educator recovery.",
+      "excerpt": "Louisiana House Bill 283 — the Teacher Shield Act — cleared the House on April 8 and is now under Senate review. The bill would require immediate removal and alternative placement for students who assault teachers, plus expanded leave for educator recovery.",
       "category": "Policy",
       "state": "LA",
-      "featured": false
-    },
-    {
-      "id": "2026-04-02-virginia-spanberger-signs-school-safety",
-      "headline": "Spanberger signs bipartisan school-safety, student support bills into Virginia law",
-      "source": "WDBJ7 (CBS)",
-      "source_url": "https://www.wdbj7.com",
-      "date": "2026-04-02",
-      "url": "https://www.wdbj7.com/2026/04/02/gov-spanberger-signs-multiple-bills-into-law-strengthen-school-safety/",
-      "image": "https://gray-wdbj-prod.gtv-cdn.com/resizer/v2/EEC6UZJYAJG5LLVHRJISCYWSQI.jpg?auth=e7dc6e55a3b1dbafa757fd82b81f9749e9cc640700b50bb7f19773a700b64b2c&amp;width=1200&amp;height=600&amp;smart=true",
-      "image_alt": "Virginia Governor signing school safety legislation",
-      "excerpt": "Governor Abigail Spanberger signed a package of bipartisan bills on April 2, including HB592 to let districts equip teachers with wearable panic alarms, HB38 to train teachers on student mental health, and HB1071 strengthening red-flag training.",
-      "category": "Policy",
-      "state": "VA",
       "featured": false
     }
   ],
@@ -169,6 +169,20 @@
       "excerpt": "Louisiana Public Radio's Capitol Access Minute covers the April 8 advancement of the Teacher Shield Act (HB 283) through the House. Rep. Candace Newell, a former teacher, authored the bill; Sen. Gary Carter will carry it in the Senate.",
       "category": "Policy",
       "state": "LA",
+      "featured": false
+    },
+    {
+      "id": "2026-04-02-virginia-spanberger-signs-school-safety",
+      "headline": "Spanberger signs bipartisan school-safety, student support bills into Virginia law",
+      "source": "WDBJ7 (CBS)",
+      "source_url": "https://www.wdbj7.com",
+      "date": "2026-04-02",
+      "url": "https://www.wdbj7.com/2026/04/02/gov-spanberger-signs-multiple-bills-into-law-strengthen-school-safety/",
+      "image": "https://gray-wdbj-prod.gtv-cdn.com/resizer/v2/EEC6UZJYAJG5LLVHRJISCYWSQI.jpg?auth=e7dc6e55a3b1dbafa757fd82b81f9749e9cc640700b50bb7f19773a700b64b2c&amp;width=1200&amp;height=600&amp;smart=true",
+      "image_alt": "Virginia Governor signing school safety legislation",
+      "excerpt": "Governor Abigail Spanberger signed a package of bipartisan bills on April 2, including HB592 to let districts equip teachers with wearable panic alarms, HB38 to train teachers on student mental health, and HB1071 strengthening red-flag training.",
+      "category": "Policy",
+      "state": "VA",
       "featured": false
     },
     {
