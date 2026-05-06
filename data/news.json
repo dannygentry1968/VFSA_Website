@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-05T20:03:56Z",
+  "updated": "2026-05-06T14:51:00Z",
   "articles": [
     {
       "id": "2026-05-05-pima-walden-grove-threats",
@@ -16,6 +16,20 @@
       "featured": false
     },
     {
+      "id": "2026-05-05-north-haven-ct-schools-lockdown-threat",
+      "headline": "North Haven middle school, high school placed on lockdown as police investigate threat",
+      "source": "WFSB Channel 3 (CBS)",
+      "source_url": "https://www.wfsb.com",
+      "date": "2026-05-05",
+      "url": "https://www.wfsb.com/2026/05/05/north-haven-schools-placed-lockdown-due-threat/",
+      "image": "https://gray-wfsb-prod.gtv-cdn.com/resizer/v2/SKEJPUUILRCENNDVH5IHPES6QQ.jpeg?auth=0be47420743683f2a8d1935fba88756cbc156b13861ac80c5e6706a7fc75c536&amp;width=1200&amp;height=600&amp;smart=true",
+      "image_alt": "North Haven High School in Connecticut",
+      "excerpt": "North Haven High School and Middle School were placed on lockdown Tuesday afternoon after police received a threat of violence directed at the high school. North Haven officers are investigating; no actual violence has occurred and students were held in classrooms while law enforcement secured the campus.",
+      "category": "Incident",
+      "state": "CT",
+      "featured": false
+    },
+    {
       "id": "2026-05-04-humble-ross-sterling-gun-pointed",
       "headline": "Humble ISD student accused of bringing gun to campus; parents question school response",
       "source": "KPRC 2 / Click2Houston (NBC)",
@@ -27,7 +41,7 @@
       "excerpt": "A Ross Sterling Middle School seventh-grader allegedly brought a loaded handgun to campus Friday and pointed it at three other students before classmates reported it. Police recovered the gun via search warrant; parents say Humble ISD took nearly 48 hours to alert families.",
       "category": "Incident",
       "state": "TX",
-      "featured": true
+      "featured": false
     },
     {
       "id": "2026-05-04-richland-blythewood-bus-loaded-gun",
@@ -58,20 +72,6 @@
       "featured": false
     },
     {
-      "id": "2026-05-01-charles-county-st-charles-ghost-guns-3d-printer",
-      "headline": "6 guns, 3D printer, ammunition found at houses of high schoolers who brought guns to school",
-      "source": "WUSA9 (CBS)",
-      "source_url": "https://www.wusa9.com",
-      "date": "2026-05-01",
-      "url": "https://www.wusa9.com/article/news/crime/youth-crime/charles-county-schools-guns/65-cf7d732a-7786-4c93-8ebb-50d7d556d5ee",
-      "image": "https://media.wusa9.com/assets/WUSA/images/bfb33606-7d9a-4e49-b5fb-b1af587a22f1/20260501T192017/bfb33606-7d9a-4e49-b5fb-b1af587a22f1_1140x641.jpg",
-      "image_alt": "St. Charles High School in Waldorf, Maryland",
-      "excerpt": "Two St. Charles High School students were arrested in late April after school resource officers found loaded ghost guns on campus, one with a machine-gun conversion switch. Follow-up search warrants at the students' homes recovered six more firearms, ammunition and a 3D printer.",
-      "category": "Incident",
-      "state": "MD",
-      "featured": false
-    },
-    {
       "id": "2026-04-29-central-florida-former-student-gun-havoc",
       "headline": "Former student armed with gun sparks havoc at Central Florida high school",
       "source": "ClickOrlando (NBC)",
@@ -97,7 +97,7 @@
       "excerpt": "Three students at Dr. Martin Luther King Jr. High School in DeKalb County, Georgia were charged with battery and disrupting public school after a hallway fight with a veteran teacher on April 22. Video of the incident circulated widely on social media and is being used by district investigators.",
       "category": "Incident",
       "state": "GA",
-      "featured": false
+      "featured": true
     },
     {
       "id": "2026-04-17-sc-educator-safety-classroom-authority-act",
@@ -143,6 +143,20 @@
     }
   ],
   "archive": [
+    {
+      "id": "2026-05-01-charles-county-st-charles-ghost-guns-3d-printer",
+      "headline": "6 guns, 3D printer, ammunition found at houses of high schoolers who brought guns to school",
+      "source": "WUSA9 (CBS)",
+      "source_url": "https://www.wusa9.com",
+      "date": "2026-05-01",
+      "url": "https://www.wusa9.com/article/news/crime/youth-crime/charles-county-schools-guns/65-cf7d732a-7786-4c93-8ebb-50d7d556d5ee",
+      "image": "https://media.wusa9.com/assets/WUSA/images/bfb33606-7d9a-4e49-b5fb-b1af587a22f1/20260501T192017/bfb33606-7d9a-4e49-b5fb-b1af587a22f1_1140x641.jpg",
+      "image_alt": "St. Charles High School in Waldorf, Maryland",
+      "excerpt": "Two St. Charles High School students were arrested in late April after school resource officers found loaded ghost guns on campus, one with a machine-gun conversion switch. Follow-up search warrants at the students' homes recovered six more firearms, ammunition and a 3D printer.",
+      "category": "Incident",
+      "state": "MD",
+      "featured": false
+    },
     {
       "id": "2026-04-29-stratford-nashville-evolv-stolen-gun",
       "headline": "Teen arrested after bringing stolen gun to Nashville high school",
