@@ -1,6 +1,34 @@
 {
-  "updated": "2026-05-06T14:51:00Z",
+  "updated": "2026-05-07T15:30:00Z",
   "articles": [
+    {
+      "id": "2026-05-06-huntsville-madison-five-guns",
+      "headline": "Huntsville school leaders address safety concerns after several guns found on campuses throughout Madison Co.",
+      "source": "WAFF 48 (NBC)",
+      "source_url": "https://www.waff.com",
+      "date": "2026-05-06",
+      "url": "https://www.waff.com/2026/05/06/huntsville-school-leaders-address-safety-concerns-after-five-guns-found-campuses-throughout-madison-co/",
+      "image": "https://gray-waff-prod.gtv-cdn.com/resizer/v2/4F4VMGTC4VHETJWSVM6YD6FXFY.jpg?auth=64429bec88e6e514cb0dcbb2f9d451429882267a964c59d5eb0d18279342ea8f&amp;width=1200&amp;height=600&amp;smart=true",
+      "image_alt": "Huntsville City Schools press conference",
+      "excerpt": "Huntsville City Schools leaders held a public safety briefing May 6 after five firearms turned up on Madison County campuses in less than two months. The district is fast-tracking weapon-detection rollout and reinforcing zero-tolerance discipline for students who bring guns to class.",
+      "category": "Analysis",
+      "state": "AL",
+      "featured": false
+    },
+    {
+      "id": "2026-05-06-kansas-statewide-swatting-schools",
+      "headline": "Multiple Kansas schools targeted by statewide swatting incident, police say",
+      "source": "KAKE (ABC)",
+      "source_url": "https://www.kake.com",
+      "date": "2026-05-06",
+      "url": "https://www.kake.com/home/multiple-kansas-schools-targeted-by-statewide-swatting-incident-police-say/article_f418b2a5-a963-4dab-b539-91e02f7037aa.html",
+      "image": "https://bloximages.chicago2.vip.townnews.com/kake.com/content/tncms/assets/v3/editorial/0/15/015dbcbc-43c6-11ef-a648-3376474421f6/6696f9b204103.image.jpg?crop=640%2C336%2C0%2C11",
+      "image_alt": "Kansas police vehicles outside a school",
+      "excerpt": "Schools in Parsons, Chanute, Humboldt, Fort Scott, Russell and Woodson districts were forced into lockdown May 6 by AI-generated swatting calls. KBI investigators say the calls trace to a foreign criminal enterprise targeting U.S. schools to terrorize students and staff.",
+      "category": "Analysis",
+      "state": "KS",
+      "featured": false
+    },
     {
       "id": "2026-05-05-pima-walden-grove-threats",
       "headline": "Pima County student allegedly threatened to bring gun, bomb to school",
@@ -27,6 +55,20 @@
       "excerpt": "North Haven High School and Middle School were placed on lockdown Tuesday afternoon after police received a threat of violence directed at the high school. North Haven officers are investigating; no actual violence has occurred and students were held in classrooms while law enforcement secured the campus.",
       "category": "Incident",
       "state": "CT",
+      "featured": false
+    },
+    {
+      "id": "2026-05-05-psea-pa-educator-protection-bill",
+      "headline": "PSEA president urges Pa. House committee to pass legislation strengthening protections for educators injured as a result of student behavior",
+      "source": "Pennsylvania State Education Association",
+      "source_url": "https://www.psea.org",
+      "date": "2026-05-05",
+      "url": "https://www.psea.org/news--events/newsstand/press-center/news-release---may-5-2026/",
+      "image": "https://www.psea.org/globalassets/issues--action/key-issues/statecapitol.png",
+      "image_alt": "Pennsylvania State Capitol in Harrisburg",
+      "excerpt": "PSEA president Aaron Chapin testified before the Pa. House Education Committee on May 5 in support of legislation expanding paid recovery leave, workers' compensation, and removal authority for teachers injured by student violence. Educator assault reports have climbed sharply in the state.",
+      "category": "Policy",
+      "state": "PA",
       "featured": false
     },
     {
@@ -72,74 +114,32 @@
       "featured": false
     },
     {
-      "id": "2026-04-29-central-florida-former-student-gun-havoc",
-      "headline": "Former student armed with gun sparks havoc at Central Florida high school",
-      "source": "ClickOrlando (NBC)",
-      "source_url": "https://www.clickorlando.com",
-      "date": "2026-04-29",
-      "url": "https://www.clickorlando.com/news/local/2026/04/29/former-student-armed-with-gun-sparks-havoc-at-central-florida-high-school/",
-      "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/anyclip/fstl-tf/pEAc250BdFUvoNnVhI4Z/1777497701617_1920x1080_thumbnail.jpg?_a=DATAg1fkZAA0",
-      "image_alt": "Central Florida high school exterior with police response",
-      "excerpt": "A former student carrying a firearm entered a Central Florida high school on April 29, prompting an emergency response and lockdown. Deputies detained the suspect on campus; no shots were fired and no students were injured before officers secured the scene.",
+      "id": "2026-05-04-forest-view-il-sro-stolen-gun",
+      "headline": "Teen charged in connection with Forest View Educational Center school resource officer's missing gun",
+      "source": "ABC 7 Chicago",
+      "source_url": "https://abc7chicago.com",
+      "date": "2026-05-04",
+      "url": "https://abc7chicago.com/post/juan-pablo-sanchez-jaramillo-teen-charged-connection-forest-view-educational-center-school-resource-officers-missing-gun/19053822/",
+      "image": "https://cdn.abcotvs.com/dip/images/19054825_050626-wls-ravi-ah-school-gun-theft-10p-vid.jpg?w=1600",
+      "image_alt": "Forest View Educational Center in Arlington Heights, Illinois",
+      "excerpt": "A 17-year-old was charged with stealing an Arlington Heights school resource officer's loaded service weapon at Forest View Educational Center on May 4. Cook County prosecutors filed felony counts; the SRO has been placed on administrative leave pending an internal affairs review.",
       "category": "Incident",
-      "state": "FL",
+      "state": "IL",
       "featured": false
     },
     {
-      "id": "2026-04-22-dekalb-mlk-high-teacher-student-fight",
-      "headline": "Three MLK High School students charged with battery after fighting teacher",
-      "source": "Decaturish",
-      "source_url": "https://www.decaturish.com",
-      "date": "2026-04-22",
-      "url": "https://www.decaturish.com/news/dekalb/three-mlk-high-school-students-charged-with-battery-after-fighting-teacher/article_2b9186a4-4336-5155-8e4f-1a129c8fe736.html",
-      "image": "https://bloximages.chicago2.vip.townnews.com/decaturish.com/content/tncms/assets/v3/editorial/2/96/2965f0a2-be9f-5acc-828d-f4697bfb6db9/68080b2e9a140.image.jpg?crop=639%2C337%2C0%2C44",
-      "image_alt": "Dr. Martin Luther King Jr. High School entrance sign",
-      "excerpt": "Three students at Dr. Martin Luther King Jr. High School in DeKalb County, Georgia were charged with battery and disrupting public school after a hallway fight with a veteran teacher on April 22. Video of the incident circulated widely on social media and is being used by district investigators.",
+      "id": "2026-05-01-tacoma-foss-stabbing-charged",
+      "headline": "Boy, 16, charged for stabbing at Foss High School that injured 4 students, security guard",
+      "source": "KOMO News 4 (ABC)",
+      "source_url": "https://komonews.com",
+      "date": "2026-05-01",
+      "url": "https://komonews.com/news/local/16-year-old-boy-charged-for-mass-stabbing-at-foss-high-school-tacoma-washington-6-injured-5-students-security-guard",
+      "image": "https://komonews.com/resources/media2/16x9/1280/1320/center/90/f53512ae-e4e9-4bb1-b35a-68fcf25d1239-dn30FossHSStabbingMCP_frame_66272.jpeg",
+      "image_alt": "Foss High School in Tacoma, Washington",
+      "excerpt": "A 16-year-old has been charged as an adult with four counts of first-degree assault after a mass stabbing at Foss High School in Tacoma on April 30. Four students were wounded along with a school security guard who tried to intervene; one victim required emergency surgery.",
       "category": "Incident",
-      "state": "GA",
+      "state": "WA",
       "featured": true
-    },
-    {
-      "id": "2026-04-17-sc-educator-safety-classroom-authority-act",
-      "headline": "SC teachers report concussions, bite marks and worse. A bill would give them more power in class.",
-      "source": "WLTX (CBS)",
-      "source_url": "https://www.wltx.com",
-      "date": "2026-04-17",
-      "url": "https://www.wltx.com/article/news/local/bill-schools-violent-disruptive-students-south-carolina/101-fd0e4b61-1262-410b-b377-0af33194b18f",
-      "image": "https://media.wltx.com/assets/WLTX/images/e4de716a-6729-41de-b152-4c7c1834f580/20260417T231602/e4de716a-6729-41de-b152-4c7c1834f580_1140x641.jpg",
-      "image_alt": "South Carolina classroom",
-      "excerpt": "South Carolina H.5483 — the Educator Safety and Classroom Authority Act — would let teachers remove disruptive students, authorize reasonable force in self-defense, and bar administrators from deleting referrals. Educators reporting concussions and bite marks say it's overdue.",
-      "category": "Policy",
-      "state": "SC",
-      "featured": false
-    },
-    {
-      "id": "2026-04-10-wral-triangle-schools-lockdowns-analysis",
-      "headline": "Multiple lockdowns at Triangle schools reflect increase in threats to schools nationwide",
-      "source": "WRAL (NBC)",
-      "source_url": "https://www.wral.com",
-      "date": "2026-04-10",
-      "url": "https://www.wral.com/news/local/lockdowns-triangle-schools-reflect-increase-nationwide-threats-april-2026/",
-      "image": "https://images.wral.com/asset/news/local/2026/04/06/22344902/screenshot_61_-DMID1-6akg98flv-1280x720.jpg?w=1200&amp;h=630&amp;height=630",
-      "image_alt": "Police vehicles outside a Triangle area school",
-      "excerpt": "Triangle-area schools have been on lockdown nearly every school day this week as bomb and weapon threats roll in. While North Carolina hoax-threat data dipped from 2023-24 to 2024-25, administrators warn the operational toll on staff and students is mounting.",
-      "category": "Analysis",
-      "state": "NC",
-      "featured": false
-    },
-    {
-      "id": "2026-04-09-louisiana-teacher-shield-act-advances",
-      "headline": "Bill advances to protect teachers, but critics warn of impact on students of color and rural parishes",
-      "source": "WWL-TV (CBS)",
-      "source_url": "https://www.wwltv.com",
-      "date": "2026-04-09",
-      "url": "https://www.wwltv.com/article/news/local/local-politics/teacher-shield-act-gains-ground-in-louisiana-legislature-school-safety-bill-candace-newell-senate-house/289-575e2cce-3d58-49c7-a1db-9ff177dccaf5",
-      "image": "https://media.wwltv.com/assets/WWL/images/f2502e9d-6dfc-4541-b33d-44d32fd1bc41/20260410T032625/f2502e9d-6dfc-4541-b33d-44d32fd1bc41_1140x641.jpg",
-      "image_alt": "Louisiana State Capitol Building",
-      "excerpt": "Louisiana House Bill 283 — the Teacher Shield Act — cleared the House on April 8 and is now under Senate review. The bill would require immediate removal and alternative placement for students who assault teachers, plus expanded leave for educator recovery.",
-      "category": "Policy",
-      "state": "LA",
-      "featured": false
     }
   ],
   "archive": [
@@ -155,6 +155,20 @@
       "excerpt": "Two St. Charles High School students were arrested in late April after school resource officers found loaded ghost guns on campus, one with a machine-gun conversion switch. Follow-up search warrants at the students' homes recovered six more firearms, ammunition and a 3D printer.",
       "category": "Incident",
       "state": "MD",
+      "featured": false
+    },
+    {
+      "id": "2026-04-29-central-florida-former-student-gun-havoc",
+      "headline": "Former student armed with gun sparks havoc at Central Florida high school",
+      "source": "ClickOrlando (NBC)",
+      "source_url": "https://www.clickorlando.com",
+      "date": "2026-04-29",
+      "url": "https://www.clickorlando.com/news/local/2026/04/29/former-student-armed-with-gun-sparks-havoc-at-central-florida-high-school/",
+      "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/anyclip/fstl-tf/pEAc250BdFUvoNnVhI4Z/1777497701617_1920x1080_thumbnail.jpg?_a=DATAg1fkZAA0",
+      "image_alt": "Central Florida high school exterior with police response",
+      "excerpt": "A former student carrying a firearm entered a Central Florida high school on April 29, prompting an emergency response and lockdown. Deputies detained the suspect on campus; no shots were fired and no students were injured before officers secured the scene.",
+      "category": "Incident",
+      "state": "FL",
       "featured": false
     },
     {
@@ -242,6 +256,20 @@
       "featured": false
     },
     {
+      "id": "2026-04-22-dekalb-mlk-high-teacher-student-fight",
+      "headline": "Three MLK High School students charged with battery after fighting teacher",
+      "source": "Decaturish",
+      "source_url": "https://www.decaturish.com",
+      "date": "2026-04-22",
+      "url": "https://www.decaturish.com/news/dekalb/three-mlk-high-school-students-charged-with-battery-after-fighting-teacher/article_2b9186a4-4336-5155-8e4f-1a129c8fe736.html",
+      "image": "https://bloximages.chicago2.vip.townnews.com/decaturish.com/content/tncms/assets/v3/editorial/2/96/2965f0a2-be9f-5acc-828d-f4697bfb6db9/68080b2e9a140.image.jpg?crop=639%2C337%2C0%2C44",
+      "image_alt": "Dr. Martin Luther King Jr. High School entrance sign",
+      "excerpt": "Three students at Dr. Martin Luther King Jr. High School in DeKalb County, Georgia were charged with battery and disrupting public school after a hallway fight with a veteran teacher on April 22. Video of the incident circulated widely on social media and is being used by district investigators.",
+      "category": "Incident",
+      "state": "GA",
+      "featured": false
+    },
+    {
       "id": "2026-04-22-south-sioux-city-ai-hoax-lockdown",
       "headline": "AI phone call prompts lockdown at South Sioux City High School, police say",
       "source": "KTIV (NBC)",
@@ -298,6 +326,20 @@
       "featured": false
     },
     {
+      "id": "2026-04-17-sc-educator-safety-classroom-authority-act",
+      "headline": "SC teachers report concussions, bite marks and worse. A bill would give them more power in class.",
+      "source": "WLTX (CBS)",
+      "source_url": "https://www.wltx.com",
+      "date": "2026-04-17",
+      "url": "https://www.wltx.com/article/news/local/bill-schools-violent-disruptive-students-south-carolina/101-fd0e4b61-1262-410b-b377-0af33194b18f",
+      "image": "https://media.wltx.com/assets/WLTX/images/e4de716a-6729-41de-b152-4c7c1834f580/20260417T231602/e4de716a-6729-41de-b152-4c7c1834f580_1140x641.jpg",
+      "image_alt": "South Carolina classroom",
+      "excerpt": "South Carolina H.5483 — the Educator Safety and Classroom Authority Act — would let teachers remove disruptive students, authorize reasonable force in self-defense, and bar administrators from deleting referrals. Educators reporting concussions and bite marks say it's overdue.",
+      "category": "Policy",
+      "state": "SC",
+      "featured": false
+    },
+    {
       "id": "2026-04-15-oklahoma-principal-tackles-gunman",
       "headline": "Oklahoma principal shot in leg is praised for tackling school shooter: 'He is a hero'",
       "source": "Fox News",
@@ -340,6 +382,20 @@
       "featured": false
     },
     {
+      "id": "2026-04-10-wral-triangle-schools-lockdowns-analysis",
+      "headline": "Multiple lockdowns at Triangle schools reflect increase in threats to schools nationwide",
+      "source": "WRAL (NBC)",
+      "source_url": "https://www.wral.com",
+      "date": "2026-04-10",
+      "url": "https://www.wral.com/news/local/lockdowns-triangle-schools-reflect-increase-nationwide-threats-april-2026/",
+      "image": "https://images.wral.com/asset/news/local/2026/04/06/22344902/screenshot_61_-DMID1-6akg98flv-1280x720.jpg?w=1200&amp;h=630&amp;height=630",
+      "image_alt": "Police vehicles outside a Triangle area school",
+      "excerpt": "Triangle-area schools have been on lockdown nearly every school day this week as bomb and weapon threats roll in. While North Carolina hoax-threat data dipped from 2023-24 to 2024-25, administrators warn the operational toll on staff and students is mounting.",
+      "category": "Analysis",
+      "state": "NC",
+      "featured": false
+    },
+    {
       "id": "2026-04-09-splendora-teacher-hoax-lockdown",
       "headline": "$20K bond set for Splendora High School teacher accused of hoax attack by student",
       "source": "KHOU 11 (CBS)",
@@ -351,6 +407,20 @@
       "excerpt": "A Splendora High School teacher was charged with felony tampering and filing a false report after police say she cut herself and blamed a student for the injuries. The hoax briefly placed the campus on a secure-hold while officers investigated.",
       "category": "Response",
       "state": "TX",
+      "featured": false
+    },
+    {
+      "id": "2026-04-09-louisiana-teacher-shield-act-advances",
+      "headline": "Bill advances to protect teachers, but critics warn of impact on students of color and rural parishes",
+      "source": "WWL-TV (CBS)",
+      "source_url": "https://www.wwltv.com",
+      "date": "2026-04-09",
+      "url": "https://www.wwltv.com/article/news/local/local-politics/teacher-shield-act-gains-ground-in-louisiana-legislature-school-safety-bill-candace-newell-senate-house/289-575e2cce-3d58-49c7-a1db-9ff177dccaf5",
+      "image": "https://media.wwltv.com/assets/WWL/images/f2502e9d-6dfc-4541-b33d-44d32fd1bc41/20260410T032625/f2502e9d-6dfc-4541-b33d-44d32fd1bc41_1140x641.jpg",
+      "image_alt": "Louisiana State Capitol Building",
+      "excerpt": "Louisiana House Bill 283 — the Teacher Shield Act — cleared the House on April 8 and is now under Senate review. The bill would require immediate removal and alternative placement for students who assault teachers, plus expanded leave for educator recovery.",
+      "category": "Policy",
+      "state": "LA",
       "featured": false
     },
     {
