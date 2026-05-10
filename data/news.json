@@ -1,6 +1,20 @@
 {
-  "updated": "2026-05-10T03:18:37Z",
+  "updated": "2026-05-10T20:01:31Z",
   "articles": [
+    {
+      "id": "2026-05-09-laredo-teen-social-media-threat-arrest",
+      "headline": "Laredo teen arrested for social media threat against school",
+      "source": "KGNS-TV (NBC Laredo)",
+      "source_url": "https://www.kgns.tv",
+      "date": "2026-05-09",
+      "url": "https://www.kgns.tv/2026/05/10/laredo-teen-arrested-social-media-threat-against-school/",
+      "image": "https://gray-kgns-prod.gtv-cdn.com/resizer/v2/ATGXLNPJCRBY7HMFSIEMV4CFAA.jpg?auth=f0f7acac80e9f60d29dde4e8c19da2542c71321572b31b7cec12e7f51cb2de5a&width=1200&height=600&smart=true",
+      "image_alt": "Laredo police investigate school threat",
+      "excerpt": "A 15-year-old boy was arrested Saturday night after Laredo police say he posted threats against a local UISD campus on social media. The Texas Anti-Gang unit and special operations group worked with school police to track him down; he was charged with terroristic threat.",
+      "category": "Incident",
+      "state": "TX",
+      "featured": false
+    },
     {
       "id": "2026-05-08-grand-rapids-southwest-elementary-shooting-arraignment",
       "headline": "Suspect arraigned in deadly Grand Rapids double shooting; new details revealed in court documents",
@@ -30,6 +44,20 @@
       "featured": false
     },
     {
+      "id": "2026-05-08-augusta-prep-lego-gun-arrest",
+      "headline": "Augusta Prep student arrested over picture of LEGO gun, threat he called a joke",
+      "source": "WRDW/WAGT News 12 (CBS/ABC Augusta)",
+      "source_url": "https://www.wrdw.com",
+      "date": "2026-05-08",
+      "url": "https://www.wrdw.com/2026/05/08/augusta-prep-student-arrested-over-picture-lego-gun/",
+      "image": "https://gray-wrdw-prod.gtv-cdn.com/resizer/v2/LPAWK7SVLVFIPE7HYMAH7EYVJA.png?auth=015828528298a9a788fdf085e97d4b275132ee1561ba93ce6be8a49ea7bc73f4&width=1200&height=600&smart=true",
+      "image_alt": "Augusta Prep school sign at entrance",
+      "excerpt": "A senior at Augusta Preparatory Day School was arrested on a terroristic threats charge after posting a Snapchat photo of a pistol with the caption 'shooting up the school so I don't have to take the stats exam.' Deputies determined the 'pistol' was a LEGO build, but a judge issued a warrant.",
+      "category": "Incident",
+      "state": "GA",
+      "featured": false
+    },
+    {
       "id": "2026-05-08-buchholz-high-school-bomb-threat-lockdown",
       "headline": "Buchholz High School locked down due to bomb threat, deputies say",
       "source": "WCJB-TV20 (ABC)",
@@ -41,20 +69,6 @@
       "excerpt": "Alachua County Sheriff's deputies locked down Buchholz High School in Gainesville on Friday after an anonymous caller claimed a bomb had been placed inside one of the buildings. Students and staff were secured while a methodical search was conducted.",
       "category": "Incident",
       "state": "FL",
-      "featured": false
-    },
-    {
-      "id": "2026-05-08-north-valleys-high-school-lockdown-arrest",
-      "headline": "Washoe County Sheriff's Office explains role in handling North Valleys High's lockdown incident",
-      "source": "KOLO 8 News Now",
-      "source_url": "https://www.kolotv.com",
-      "date": "2026-05-08",
-      "url": "https://www.kolotv.com/2026/05/09/washoe-county-sheriffs-office-explains-role-handling-north-valleys-highs-lockdown-incident/",
-      "image": "https://gray-kolo-prod.gtv-cdn.com/resizer/v2/APGRFURG2NDURKZ6PGUWTCZ7SA.png?auth=c2e4e3ff87edcb60d315991bdb3cce84ebd3522435ac07696d986cb36d647fd7&width=1200&height=600&smart=true",
-      "image_alt": "North Valleys High School lockdown response",
-      "excerpt": "Washoe County deputies and a K-9 team supported Washoe County School Police during a Thursday lockdown at North Valleys High School in Reno after a report of multiple subjects with a weapon. Four juveniles were involved and an arrest was made.",
-      "category": "Incident",
-      "state": "NV",
       "featured": false
     },
     {
@@ -86,6 +100,50 @@
       "featured": false
     },
     {
+      "id": "2026-05-08-north-valleys-high-school-lockdown-arrest",
+      "headline": "Washoe County Sheriff's Office explains role in handling North Valleys High's lockdown incident",
+      "source": "KOLO 8 News Now",
+      "source_url": "https://www.kolotv.com",
+      "date": "2026-05-08",
+      "url": "https://www.kolotv.com/2026/05/09/washoe-county-sheriffs-office-explains-role-handling-north-valleys-highs-lockdown-incident/",
+      "image": "https://gray-kolo-prod.gtv-cdn.com/resizer/v2/APGRFURG2NDURKZ6PGUWTCZ7SA.png?auth=c2e4e3ff87edcb60d315991bdb3cce84ebd3522435ac07696d986cb36d647fd7&width=1200&height=600&smart=true",
+      "image_alt": "North Valleys High School lockdown response",
+      "excerpt": "Washoe County deputies and a K-9 team supported Washoe County School Police during a Thursday lockdown at North Valleys High School in Reno after a report of multiple subjects with a weapon. Four juveniles were involved and an arrest was made.",
+      "category": "Incident",
+      "state": "NV",
+      "featured": false
+    },
+    {
+      "id": "2026-05-07-tenino-student-tip-prevents-firearm-threat",
+      "headline": "Student tip leads to arrest of Tenino high schooler who allegedly threatened to bring gun to class",
+      "source": "MyNorthwest (KIRO Newsradio)",
+      "source_url": "https://mynorthwest.com",
+      "date": "2026-05-07",
+      "url": "https://mynorthwest.com/crime-blotter/tenino-gun-threat-student/4236013",
+      "image": "https://mynorthwest.com/wp-content/uploads/2026/05/Untitled-design-2026-05-07T110614.156.jpg",
+      "image_alt": "Tenino High School exterior",
+      "excerpt": "A classmate's overnight tip allowed Thurston County deputies to identify and arrest a Tenino High School student before classes started Thursday. The student had allegedly threatened to bring a firearm to school the next day, and was booked for threats to injure school property.",
+      "category": "Response",
+      "state": "WA",
+      "featured": false
+    },
+    {
+      "id": "2026-05-05-pima-walden-grove-communication-failure",
+      "headline": "Pima County parents concerned about lack of communication after student arrested over threats",
+      "source": "KOLD News 13 (CBS Tucson)",
+      "source_url": "https://www.kold.com",
+      "date": "2026-05-05",
+      "url": "https://www.kold.com/2026/05/06/pima-county-parents-concerned-about-lack-communication-after-student-arrested-over-threats/",
+      "image": "https://gray-kold-prod.gtv-cdn.com/resizer/v2/WD2KWAIVJVEHBNS5XSAMLEC3YE.png?auth=0efd42bdb16dbf9e259c119db1a48cba07f2091f58aeee9a3d5ba9d4b57dbeb5&width=1200&height=600&smart=true",
+      "image_alt": "Walden Grove High School bus pickup area",
+      "excerpt": "Walden Grove High parents say a student arrested for threatening to bring a gun and bomb to school was back on the bus days later. The Sahuarita Police Department and Sahuarita Unified School District never told families that the threat had been deemed not credible, leaving parents to call 911 themselves.",
+      "category": "Analysis",
+      "state": "AZ",
+      "featured": false
+    }
+  ],
+  "archive": [
+    {
       "id": "2026-05-07-owen-valley-hs-gun-drugs-found-students-car",
       "headline": "Owen County Sheriff's Office: Gun, drugs found in Owen Valley student's car",
       "source": "MyWabashValley (WTWO/WAWV)",
@@ -114,21 +172,19 @@
       "featured": false
     },
     {
-      "id": "2026-05-07-tenino-student-tip-prevents-firearm-threat",
-      "headline": "Student tip leads to arrest of Tenino high schooler who allegedly threatened to bring gun to class",
-      "source": "MyNorthwest (KIRO Newsradio)",
-      "source_url": "https://mynorthwest.com",
-      "date": "2026-05-07",
-      "url": "https://mynorthwest.com/crime-blotter/tenino-gun-threat-student/4236013",
-      "image": "https://mynorthwest.com/wp-content/uploads/2026/05/Untitled-design-2026-05-07T110614.156.jpg",
-      "image_alt": "Tenino High School exterior",
-      "excerpt": "A classmate's overnight tip allowed Thurston County deputies to identify and arrest a Tenino High School student before classes started Thursday. The student had allegedly threatened to bring a firearm to school the next day, and was booked for threats to injure school property.",
-      "category": "Response",
-      "state": "WA",
+      "id": "2026-05-06-bedford-county-shelbyville-weapon-vehicle",
+      "headline": "Bedford County school placed on lockdown after weapon found in vehicle",
+      "source": "WSMV (NBC Nashville)",
+      "source_url": "https://www.wsmv.com",
+      "date": "2026-05-06",
+      "url": "https://www.wsmv.com/2026/05/06/bedford-county-school-placed-lockdown-after-weapon-found-vehicle/",
+      "image": "https://gray-wsmv-prod.gtv-cdn.com/resizer/v2/TD6ACNNNZJBHBPFKVKN2A6FBHE.jpg?auth=ed7bb0af17025ff64a72711bd3f95a0bfb28b664eb1caa627fa87d7fe38e98c6&width=1200&height=600&smart=true",
+      "image_alt": "Shelbyville Central High School entrance",
+      "excerpt": "Shelbyville Central High School in Bedford County went into lockdown at 10:40 a.m. Wednesday after a weapon was found in a student's vehicle. The student was taken into custody and the weapon confiscated; the district says zero-tolerance discipline still applies even though no harm appeared intended.",
+      "category": "Incident",
+      "state": "TN",
       "featured": false
-    }
-  ],
-  "archive": [
+    },
     {
       "id": "2026-05-06-huntsville-madison-five-guns",
       "headline": "Huntsville school leaders address safety concerns after several guns found on campuses throughout Madison Co.",
@@ -519,48 +575,6 @@
       "excerpt": "Triangle-area schools have been on lockdown nearly every school day this week as bomb and weapon threats roll in. While North Carolina hoax-threat data dipped from 2023-24 to 2024-25, administrators warn the operational toll on staff and students is mounting.",
       "category": "Analysis",
       "state": "NC",
-      "featured": false
-    },
-    {
-      "id": "2026-04-09-splendora-teacher-hoax-lockdown",
-      "headline": "$20K bond set for Splendora High School teacher accused of hoax attack by student",
-      "source": "KHOU 11 (CBS)",
-      "source_url": "https://www.khou.com",
-      "date": "2026-04-09",
-      "url": "https://www.khou.com/article/news/local/splendora-high-school-on-lockdown-as-police-respond/285-e8a93b83-6920-4c34-b44a-dd7e08317578",
-      "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/anyclip/fstl-tf/qEAg37wBdFUvoNnVD90Y/1776146731728_1920x1080_thumbnail.jpg?_a=DATAg1fkZAA0",
-      "image_alt": "Splendora High School in Montgomery County, Texas",
-      "excerpt": "A Splendora High School teacher was charged with felony tampering and filing a false report after police say she cut herself and blamed a student for the injuries. The hoax briefly placed the campus on a secure-hold while officers investigated.",
-      "category": "Response",
-      "state": "TX",
-      "featured": false
-    },
-    {
-      "id": "2026-04-09-louisiana-teacher-shield-act-advances",
-      "headline": "Bill advances to protect teachers, but critics warn of impact on students of color and rural parishes",
-      "source": "WWL-TV (CBS)",
-      "source_url": "https://www.wwltv.com",
-      "date": "2026-04-09",
-      "url": "https://www.wwltv.com/article/news/local/local-politics/teacher-shield-act-gains-ground-in-louisiana-legislature-school-safety-bill-candace-newell-senate-house/289-575e2cce-3d58-49c7-a1db-9ff177dccaf5",
-      "image": "https://media.wwltv.com/assets/WWL/images/f2502e9d-6dfc-4541-b33d-44d32fd1bc41/20260410T032625/f2502e9d-6dfc-4541-b33d-44d32fd1bc41_1140x641.jpg",
-      "image_alt": "Louisiana State Capitol Building",
-      "excerpt": "Louisiana House Bill 283 — the Teacher Shield Act — cleared the House on April 8 and is now under Senate review. The bill would require immediate removal and alternative placement for students who assault teachers, plus expanded leave for educator recovery.",
-      "category": "Policy",
-      "state": "LA",
-      "featured": false
-    },
-    {
-      "id": "2026-04-09-louisiana-teacher-shield-capitol-minute",
-      "headline": "Capitol Access Minute: Legislation to attract aerospace industry advances along with Teacher Shield Act",
-      "source": "WRKF (NPR)",
-      "source_url": "https://www.wrkf.org",
-      "date": "2026-04-09",
-      "url": "https://www.wrkf.org/politics/2026-04-09/capitol-access-minute-legislation-to-attract-aerospace-industry-advances-along-with-teacher-shield-act",
-      "image": "",
-      "image_alt": "Louisiana State Capitol Building in Baton Rouge",
-      "excerpt": "The Teacher Shield Act passed the Louisiana House April 8 and moves to the Senate, alongside legislation incentivizing aerospace industry growth. The bill would mandate immediate removal of students who assault teachers and protect educators on injury leave.",
-      "category": "Policy",
-      "state": "LA",
       "featured": false
     }
   ]
