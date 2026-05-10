@@ -1,6 +1,134 @@
 {
-  "updated": "2026-05-07T15:30:00Z",
+  "updated": "2026-05-10T03:18:37Z",
   "articles": [
+    {
+      "id": "2026-05-08-grand-rapids-southwest-elementary-shooting-arraignment",
+      "headline": "Suspect arraigned in deadly Grand Rapids double shooting; new details revealed in court documents",
+      "source": "FOX 17 Grand Rapids (WXMI)",
+      "source_url": "https://www.fox17online.com",
+      "date": "2026-05-08",
+      "url": "https://www.fox17online.com/news/local-news/grand-rapids/suspect-arraigned-in-deadly-grand-rapids-double-shooting-new-details-revealed-in-court-documents",
+      "image": "https://ewscripps.brightspotcdn.com/dims4/default/295620b/2147483647/strip/true/crop/1049x551+0+10/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fd3%2Fb8%2Fe402d9a0493bb04f4886c73f54d5%2Fmartinez-lopez-in-court.png",
+      "image_alt": "Suspect arraigned in court",
+      "excerpt": "An 18-year-old was arraigned and denied bond on two counts of open murder after a fatal shooting on the grounds of Southwest Elementary School. Court documents say the suspect drew a handgun during a playground confrontation and opened fire.",
+      "category": "Incident",
+      "state": "MI",
+      "featured": true
+    },
+    {
+      "id": "2026-05-08-cleveland-ohio-bomb-threats-second-day",
+      "headline": "Bomb threats against Northeast Ohio school districts continue for 2nd day",
+      "source": "Cleveland 19 News (WOIO CBS)",
+      "source_url": "https://www.cleveland19.com",
+      "date": "2026-05-08",
+      "url": "https://www.cleveland19.com/2026/05/08/bomb-threats-against-northeast-ohio-school-districts-continue-2nd-day/",
+      "image": "https://gray-woio-prod.gtv-cdn.com/resizer/v2/7VB6CYECSVGHJIKSWH3JSROTTU.png?auth=fcd0999dc8a28886af7d2603756045afe0b085429d57ddc95d97c9fcf05c6412&width=1200&height=600&smart=true",
+      "image_alt": "Northeast Ohio schools with bomb threats",
+      "excerpt": "For a second consecutive day, Northeast Ohio school districts received bomb threats, prompting evacuations at Elyria High School and Ely Elementary on Friday. Five other districts were swatted on Thursday, all of which authorities believe were hoax calls.",
+      "category": "Incident",
+      "state": "OH",
+      "featured": false
+    },
+    {
+      "id": "2026-05-08-buchholz-high-school-bomb-threat-lockdown",
+      "headline": "Buchholz High School locked down due to bomb threat, deputies say",
+      "source": "WCJB-TV20 (ABC)",
+      "source_url": "https://www.wcjb.com",
+      "date": "2026-05-08",
+      "url": "https://www.wcjb.com/2026/05/08/buchholz-high-school-locked-down-due-bomb-threat-deputies-say/",
+      "image": "https://gray-wcjb-prod.gtv-cdn.com/resizer/v2/NIT47QFAAFHABIQX53X7RLYMVI.png?auth=0f92ac2720c68fb31cbfa3958232b75fd2d1377281382350c5a335c6d4e556d4&width=1200&height=600&smart=false&focal=632%2C491",
+      "image_alt": "Buchholz High School locked down",
+      "excerpt": "Alachua County Sheriff's deputies locked down Buchholz High School in Gainesville on Friday after an anonymous caller claimed a bomb had been placed inside one of the buildings. Students and staff were secured while a methodical search was conducted.",
+      "category": "Incident",
+      "state": "FL",
+      "featured": false
+    },
+    {
+      "id": "2026-05-08-north-valleys-high-school-lockdown-arrest",
+      "headline": "Washoe County Sheriff's Office explains role in handling North Valleys High's lockdown incident",
+      "source": "KOLO 8 News Now",
+      "source_url": "https://www.kolotv.com",
+      "date": "2026-05-08",
+      "url": "https://www.kolotv.com/2026/05/09/washoe-county-sheriffs-office-explains-role-handling-north-valleys-highs-lockdown-incident/",
+      "image": "https://gray-kolo-prod.gtv-cdn.com/resizer/v2/APGRFURG2NDURKZ6PGUWTCZ7SA.png?auth=c2e4e3ff87edcb60d315991bdb3cce84ebd3522435ac07696d986cb36d647fd7&width=1200&height=600&smart=true",
+      "image_alt": "North Valleys High School lockdown response",
+      "excerpt": "Washoe County deputies and a K-9 team supported Washoe County School Police during a Thursday lockdown at North Valleys High School in Reno after a report of multiple subjects with a weapon. Four juveniles were involved and an arrest was made.",
+      "category": "Incident",
+      "state": "NV",
+      "featured": false
+    },
+    {
+      "id": "2026-05-08-tennessee-student-internet-safety-bill",
+      "headline": "New bill aims to increase internet safety rules for Tennessee students",
+      "source": "WSMV (NBC Nashville)",
+      "source_url": "https://www.wsmv.com",
+      "date": "2026-05-08",
+      "url": "https://www.wsmv.com/2026/05/08/new-bill-aims-increase-internet-safety-rules-tennessee-students/",
+      "image": "https://gray-wsmv-prod.gtv-cdn.com/resizer/v2/FXKS34ARXJBI7J5753TVH3IBFI.bmp?auth=a153de76aac51de63e43bb041ec9139c9bfa954351a386d592dfc83b40c89a1e&width=1200&height=600&smart=true",
+      "image_alt": "Student using laptop in classroom",
+      "excerpt": "A Tennessee bill awaiting the governor's signature would force districts to set strict internet safety rules, block sites with violence or self-harm, and immediately alert parents when a student under 18 breaks the rules. Pre-K through fifth graders would only get hidden, locked-down email accounts.",
+      "category": "Policy",
+      "state": "TN",
+      "featured": false
+    },
+    {
+      "id": "2026-05-08-illinois-school-resource-officer-grant-program",
+      "headline": "Senator Darby Hills testifies on commonsense school safety legislation",
+      "source": "Illinois State Senate (Senator Darby Hills)",
+      "source_url": "https://www.senatordarbyhills.com",
+      "date": "2026-05-08",
+      "url": "https://www.senatordarbyhills.com/2026/05/08/senator-darby-hills-testifies-on-commonsense-school-safety-legislation/",
+      "image": "https://www.senatordarbyhills.com/wp-content/uploads/2026/05/050526_KL_0035-1024x731.jpg",
+      "image_alt": "Senator Darby Hills testifying in committee",
+      "excerpt": "Illinois Senate Bill 2788 would create a voluntary School Resource Officer Grant Program to help districts and police agencies share the cost of putting an SRO in schools that want one. Sen. Darby Hills told the Appropriations Education Committee SROs are out of reach for districts that can't afford them.",
+      "category": "Policy",
+      "state": "IL",
+      "featured": false
+    },
+    {
+      "id": "2026-05-07-owen-valley-hs-gun-drugs-found-students-car",
+      "headline": "Owen County Sheriff's Office: Gun, drugs found in Owen Valley student's car",
+      "source": "MyWabashValley (WTWO/WAWV)",
+      "source_url": "https://www.mywabashvalley.com",
+      "date": "2026-05-07",
+      "url": "https://www.mywabashvalley.com/news/owen-county-student-gun/",
+      "image": "https://www.mywabashvalley.com/wp-content/uploads/sites/62/2026/05/GettyImages-1311901568_e15b8a-e1775339036371.jpg?w=1280",
+      "image_alt": "Police arrest at scene",
+      "excerpt": "A 16-year-old Owen Valley High School student was taken into custody after allegedly threatening a classmate. A search of his car on school property turned up a gun, drugs, and drug paraphernalia, the Owen County Sheriff's Office said.",
+      "category": "Incident",
+      "state": "IN",
+      "featured": false
+    },
+    {
+      "id": "2026-05-07-stanley-boyd-weapons-ammunition-students-car",
+      "headline": "Weapons, ammunition found in student's vehicle at Stanley-Boyd school",
+      "source": "WEAU 13 News (NBC)",
+      "source_url": "https://www.weau.com",
+      "date": "2026-05-07",
+      "url": "https://www.weau.com/2026/05/07/weapons-ammunition-found-students-vehicle-stanley-boyd-school/",
+      "image": "https://gray-weau-prod.gtv-cdn.com/resizer/v2/LGKQDACBXJC2JI6AVNNYLGL5IA.jpg?auth=43d7a66b5c06c979637809a267db0ee3097fea41f7a3e46ac9389f0a5d6214f4&width=1200&height=600&smart=true",
+      "image_alt": "Stanley-Boyd school weapons found",
+      "excerpt": "Stanley police searched a student's vehicle in the Stanley-Boyd school parking lot Thursday after another student reported a possible weapon. Officers found multiple weapons and rounds of ammunition. The juvenile is being referred to the Chippewa County juvenile court.",
+      "category": "Incident",
+      "state": "WI",
+      "featured": false
+    },
+    {
+      "id": "2026-05-07-tenino-student-tip-prevents-firearm-threat",
+      "headline": "Student tip leads to arrest of Tenino high schooler who allegedly threatened to bring gun to class",
+      "source": "MyNorthwest (KIRO Newsradio)",
+      "source_url": "https://mynorthwest.com",
+      "date": "2026-05-07",
+      "url": "https://mynorthwest.com/crime-blotter/tenino-gun-threat-student/4236013",
+      "image": "https://mynorthwest.com/wp-content/uploads/2026/05/Untitled-design-2026-05-07T110614.156.jpg",
+      "image_alt": "Tenino High School exterior",
+      "excerpt": "A classmate's overnight tip allowed Thurston County deputies to identify and arrest a Tenino High School student before classes started Thursday. The student had allegedly threatened to bring a firearm to school the next day, and was booked for threats to injure school property.",
+      "category": "Response",
+      "state": "WA",
+      "featured": false
+    }
+  ],
+  "archive": [
     {
       "id": "2026-05-06-huntsville-madison-five-guns",
       "headline": "Huntsville school leaders address safety concerns after several guns found on campuses throughout Madison Co.",
@@ -139,10 +267,8 @@
       "excerpt": "A 16-year-old has been charged as an adult with four counts of first-degree assault after a mass stabbing at Foss High School in Tacoma on April 30. Four students were wounded along with a school security guard who tried to intervene; one victim required emergency surgery.",
       "category": "Incident",
       "state": "WA",
-      "featured": true
-    }
-  ],
-  "archive": [
+      "featured": false
+    },
     {
       "id": "2026-05-01-charles-county-st-charles-ghost-guns-3d-printer",
       "headline": "6 guns, 3D printer, ammunition found at houses of high schoolers who brought guns to school",
