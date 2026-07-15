@@ -1,6 +1,34 @@
 {
-  "updated": "2026-07-09T14:48:34Z",
+  "updated": "2026-07-15T14:09:07Z",
   "articles": [
+    {
+      "id": "2026-07-15-kentucky-sb101-expulsion-law-takes-effect",
+      "headline": "Public schools across Kentucky will see changes starting Wednesday",
+      "source": "WVXU (NPR)",
+      "source_url": "https://www.wvxu.org",
+      "date": "2026-07-15",
+      "url": "https://www.wvxu.org/2026-07-15/public-schools-across-kentucky-will-see-changes-starting-wednesday",
+      "image": "https://npr.brightspotcdn.com/dims4/default/05191d5/2147483647/strip/true/crop/640x336+0+46/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fwp-content%2Fuploads%2F2013%2F06%2FSchool_Bus.jpg",
+      "image_alt": "School bus outside a Kentucky school",
+      "excerpt": "Kentucky's Senate Bill 101 takes effect July 15, requiring districts to expel students in grades 6-12 for at least a year if they injure or attempt to injure school staff. The law answers teacher unions' calls to put educator safety first, mandating law enforcement reporting of assaults.",
+      "category": "Policy",
+      "state": "KY",
+      "featured": true
+    },
+    {
+      "id": "2026-07-15-detroit-custodian-shooting-murder-charge",
+      "headline": "Detroit man charged in fatal shooting of custodian outside Chrysler Elementary School",
+      "source": "Local 4 Detroit (NBC)",
+      "source_url": "https://www.clickondetroit.com",
+      "date": "2026-07-15",
+      "url": "https://www.clickondetroit.com/news/local/2026/07/15/detroit-man-charged-in-fatal-shooting-of-custodian-outside-chrysler-elementary-school/",
+      "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/74UOM4HBB5CUPMBGX5B2KK2GV4.jpg",
+      "image_alt": "Police photo related to school shooting case",
+      "excerpt": "Prosecutors charged Kevin Flagg, 43, with second-degree murder in the July 2 shooting of Devin Burns, a 25-year-old contracted custodian for Detroit Public Schools, killed in the Chrysler Elementary parking lot after a dispute escalated. Flagg returns to court July 20.",
+      "category": "Incident",
+      "state": "MI",
+      "featured": false
+    },
     {
       "id": "2026-07-07-fitzgerald-summer-classes-canceled-threat",
       "headline": "Fitzgerald Public Schools cancels summer classes, camp after threatening email",
@@ -112,7 +140,9 @@
       "category": "Analysis",
       "state": null,
       "featured": false
-    },
+    }
+  ],
+  "archive": [
     {
       "id": "2026-06-17-glen-haven-staff-assault-lockdown",
       "headline": "Former Montgomery County school worker accused of assaulting elementary school staff",
@@ -139,8 +169,7 @@
       "excerpt": "Two teachers were stabbed by a student during afternoon dismissal at Roye-Williams Elementary School in Havre de Grace, Maryland. Both were hospitalized with non-life-threatening injuries and have been released; the student was detained and no children were hurt.",
       "category": "Incident",
       "state": "MD",
-      "featured": true
+      "featured": false
     }
-  ],
-  "archive": []
+  ]
 }
