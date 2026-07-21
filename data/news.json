@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T14:09:07Z",
+  "updated": "2026-07-21T14:08:08Z",
   "articles": [
     {
       "id": "2026-07-15-kentucky-sb101-expulsion-law-takes-effect",
@@ -13,7 +13,7 @@
       "excerpt": "Kentucky's Senate Bill 101 takes effect July 15, requiring districts to expel students in grades 6-12 for at least a year if they injure or attempt to injure school staff. The law answers teacher unions' calls to put educator safety first, mandating law enforcement reporting of assaults.",
       "category": "Policy",
       "state": "KY",
-      "featured": true
+      "featured": false
     },
     {
       "id": "2026-07-15-detroit-custodian-shooting-murder-charge",
@@ -30,6 +30,62 @@
       "featured": false
     },
     {
+      "id": "2026-07-15-cnn-school-shootings-2026-fast-facts",
+      "headline": "School shootings in the US: Fast facts",
+      "source": "KESQ (CNN)",
+      "source_url": "https://kesq.com",
+      "date": "2026-07-15",
+      "url": "https://kesq.com/news/national-world/cnn-national/2026/07/15/school-shootings-in-the-us-fast-facts-5/",
+      "image": "https://kesq.b-cdn.net/2023/08/kesq-860x484.jpg",
+      "image_alt": "KESQ news station graphic",
+      "excerpt": "CNN's updated tracker counts at least 31 school shootings in the U.S. so far in 2026 — 21 on K-12 grounds — leaving at least 22 people dead and 23 injured, underscoring the threat educators and staff face on campus.",
+      "category": "Analysis",
+      "state": null,
+      "featured": false
+    },
+    {
+      "id": "2026-07-14-henry-county-va-teacher-pay-security-budget",
+      "headline": "Henry County schools invest in teachers, safety ahead of new school year",
+      "source": "WSET (ABC)",
+      "source_url": "https://wset.com",
+      "date": "2026-07-14",
+      "url": "https://wset.com/news/local/henry-county-schools-invest-in-teachers-safety-ahead-of-new-school-year-budget-july-2026",
+      "image": "https://wset.com/resources/media2/16x9/624/1320/49x0/90/8737e1b3-0c97-4221-ac36-9abf73486ce2-Screenshot20260714131414.png",
+      "image_alt": "Henry County school board meeting",
+      "excerpt": "Henry County's school board approved budget updates directing new money to higher employee pay and additional school security ahead of the 2026-27 year — a district-level bet that safer campuses help retain educators.",
+      "category": "Response",
+      "state": "VA",
+      "featured": false
+    },
+    {
+      "id": "2026-07-13-hawaii-educator-protection-laws-signed",
+      "headline": "Gov. Green signs key measures to strengthen Hawaiʻi's education system",
+      "source": "Maui Now",
+      "source_url": "https://mauinow.com",
+      "date": "2026-07-13",
+      "url": "https://mauinow.com/2026/07/13/gov-green-signs-key-measures-to-strengthen-hawai%CA%BBis-education-system/",
+      "image": "https://media.mauinow.com/file/mauinow/2026/07/55391926539_6225fef719_k-1024x683.jpg",
+      "image_alt": "Hawaii governor signing education bills",
+      "excerpt": "Hawaiʻi's HB 1888 makes harassment of school employees a misdemeanor, requires threats be reported to police within 48 hours, and lets the attorney general help educators obtain restraining orders against aggressors.",
+      "category": "Policy",
+      "state": "HI",
+      "featured": true
+    },
+    {
+      "id": "2026-07-13-manhattan-west-side-hs-gun-arrest",
+      "headline": "Student busted with gun at Manhattan high school: NYPD",
+      "source": "PIX11",
+      "source_url": "https://pix11.com",
+      "date": "2026-07-13",
+      "url": "https://pix11.com/news/local-news/manhattan/student-busted-with-gun-at-manhattan-high-school-nypd/",
+      "image": "",
+      "image_alt": "Police at Manhattan high school",
+      "excerpt": "A 17-year-old was arrested after an unannounced scanning at West Side High School turned up a loaded, defaced 9mm pistol in his bag. He faces three counts of criminal possession of a weapon; no one was injured.",
+      "category": "Incident",
+      "state": "NY",
+      "featured": false
+    },
+    {
       "id": "2026-07-07-fitzgerald-summer-classes-canceled-threat",
       "headline": "Fitzgerald Public Schools cancels summer classes, camp after threatening email",
       "source": "Local 4 Detroit (NBC)",
@@ -41,34 +97,6 @@
       "excerpt": "Fitzgerald Public Schools in Warren, Michigan canceled all summer classes and camp programming after district leaders received a threatening email targeting multiple school buildings. Officials suspended programs while working with law enforcement to assess the threat.",
       "category": "Incident",
       "state": "MI",
-      "featured": false
-    },
-    {
-      "id": "2026-07-07-student-attacks-on-teachers-analysis",
-      "headline": "Now It's Student Attacks on Teachers: Are Our Schools Out of Control?",
-      "source": "RedState",
-      "source_url": "https://redstate.com",
-      "date": "2026-07-07",
-      "url": "https://redstate.com/wardclark/2026/07/07/now-its-student-attacks-on-teachers-are-our-schools-out-of-control-n2204067",
-      "image": "https://media.townhall.com/cdn/hodl/rs/images/up/2025/266/260e3d99-976c-4fa6-af94-4ef1dbc584a1.png",
-      "image_alt": "Empty classroom with desks",
-      "excerpt": "A national commentary surveys the string of recent student attacks on teachers, from a Maryland stabbing to a Montana classroom beating, and asks whether schools have lost the authority to protect the adults in the classroom as discipline structures erode.",
-      "category": "Analysis",
-      "state": null,
-      "featured": false
-    },
-    {
-      "id": "2026-07-06-california-new-school-safety-laws",
-      "headline": "California schools must follow new cellphone, bathroom and safety laws",
-      "source": "Jefferson Public Radio (NPR)",
-      "source_url": "https://www.ijpr.org",
-      "date": "2026-07-06",
-      "url": "https://www.ijpr.org/education/2026-07-06/california-schools-must-follow-new-cellphone-bathroom-and-safety-laws",
-      "image": "https://npr.brightspotcdn.com/dims4/default/4089a9d/2147483647/strip/true/crop/767x403+0+54/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb3%2Fd6%2F142385b943a3ae8069990adcf89b%2Fstudent-cell-phones-opb.jpeg",
-      "image_alt": "Students using cellphones at school",
-      "excerpt": "New California laws taking effect this school year require districts to restrict student cellphone use and expand campus safety measures, including staff training requirements and broader background checks for school employees.",
-      "category": "Policy",
-      "state": "CA",
       "featured": false
     },
     {
@@ -97,6 +125,50 @@
       "excerpt": "Beginning July 1, Georgia's 'Ricky and Alyssa's Law' requires every public school to deploy mobile panic-alert devices, putting an emergency button in the hands of every teacher and administrator and linking directly to first responders. It honors two victims of school violence.",
       "category": "Response",
       "state": "GA",
+      "featured": false
+    },
+    {
+      "id": "2026-06-30-long-beach-teacher-injuries-workers-comp",
+      "headline": "Teachers say they're being bitten, headbutted and bruised while trying to manage classrooms",
+      "source": "LAist (NPR)",
+      "source_url": "https://laist.com",
+      "date": "2026-06-30",
+      "url": "https://laist.com/news/education/teachers-bitten-headbutted-bruised-classroom-management",
+      "image": "https://scpr.brightspotcdn.com/dims4/default/beaff27/2147483647/strip/true/crop/1200x630+0+45/resize/1200x630!/quality/90/?url=http%3A%2F%2Fscpr-brightspot.s3.us-west-2.amazonaws.com%2F1b%2F50%2Fc5348056422fb63c5f12328f1f17%2F06-23-2026-teacher-1-029881-xezo4asl-318936-j1vfvrfy.jpg",
+      "image_alt": "Long Beach classroom teacher portrait",
+      "excerpt": "A Long Beach Post analysis of hundreds of workers' comp claims found 72 LBUSD employees severely hurt by a student in 2024-25, up from 49 three years earlier — with educators reporting bites, headbutts and lasting injuries.",
+      "category": "Analysis",
+      "state": "CA",
+      "featured": false
+    }
+  ],
+  "archive": [
+    {
+      "id": "2026-07-07-student-attacks-on-teachers-analysis",
+      "headline": "Now It's Student Attacks on Teachers: Are Our Schools Out of Control?",
+      "source": "RedState",
+      "source_url": "https://redstate.com",
+      "date": "2026-07-07",
+      "url": "https://redstate.com/wardclark/2026/07/07/now-its-student-attacks-on-teachers-are-our-schools-out-of-control-n2204067",
+      "image": "https://media.townhall.com/cdn/hodl/rs/images/up/2025/266/260e3d99-976c-4fa6-af94-4ef1dbc584a1.png",
+      "image_alt": "Empty classroom with desks",
+      "excerpt": "A national commentary surveys the string of recent student attacks on teachers, from a Maryland stabbing to a Montana classroom beating, and asks whether schools have lost the authority to protect the adults in the classroom as discipline structures erode.",
+      "category": "Analysis",
+      "state": null,
+      "featured": false
+    },
+    {
+      "id": "2026-07-06-california-new-school-safety-laws",
+      "headline": "California schools must follow new cellphone, bathroom and safety laws",
+      "source": "Jefferson Public Radio (NPR)",
+      "source_url": "https://www.ijpr.org",
+      "date": "2026-07-06",
+      "url": "https://www.ijpr.org/education/2026-07-06/california-schools-must-follow-new-cellphone-bathroom-and-safety-laws",
+      "image": "https://npr.brightspotcdn.com/dims4/default/4089a9d/2147483647/strip/true/crop/767x403+0+54/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb3%2Fd6%2F142385b943a3ae8069990adcf89b%2Fstudent-cell-phones-opb.jpeg",
+      "image_alt": "Students using cellphones at school",
+      "excerpt": "New California laws taking effect this school year require districts to restrict student cellphone use and expand campus safety measures, including staff training requirements and broader background checks for school employees.",
+      "category": "Policy",
+      "state": "CA",
       "featured": false
     },
     {
@@ -139,36 +211,6 @@
       "excerpt": "A new report drawing on more than 346,000 wearable panic-button alerts finds 88% involved behavioral incidents such as physical altercations, and 94% of school staff say having a panic button makes them feel safer on campus. Alert use rose 31% year over year.",
       "category": "Analysis",
       "state": null,
-      "featured": false
-    }
-  ],
-  "archive": [
-    {
-      "id": "2026-06-17-glen-haven-staff-assault-lockdown",
-      "headline": "Former Montgomery County school worker accused of assaulting elementary school staff",
-      "source": "WJLA (ABC)",
-      "source_url": "https://wjla.com",
-      "date": "2026-06-17",
-      "url": "https://wjla.com/news/local/montgomery-county-elementary-school-trespassing-assault-glen-haven-elementary-staff-members-mcps-public-schools-lockdown-chase-arrest-gaithersburg",
-      "image": "https://wjla.com/resources/media2/16x9/1280/1320/center/90/86741188-8616-49a7-9c70-4eed62d5c004-MOSILVERSPRINGTEENSHOTRX37_frame_36145.jpeg",
-      "image_alt": "Police response outside a school",
-      "excerpt": "A former Montgomery County Public Schools employee allegedly trespassed inside Glen Haven Elementary and assaulted staff members, prompting an hour-long lockdown. The suspect was arrested after a brief foot pursuit and faces trespassing and assault charges.",
-      "category": "Incident",
-      "state": "MD",
-      "featured": false
-    },
-    {
-      "id": "2026-06-16-roye-williams-teachers-stabbed",
-      "headline": "2 teachers stabbed in assault involving student at Harford County elementary school",
-      "source": "CBS News Baltimore",
-      "source_url": "https://www.cbsnews.com/baltimore/",
-      "date": "2026-06-16",
-      "url": "https://www.cbsnews.com/baltimore/news/teachers-injured-assault-student-roye-williams-harford-county-havre-de-grace/",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/06/18/853e5248-146d-4380-bdaa-eecce4eb6bb8/thumbnail/1200x630/5a010dcca7244e725aa3a67ae3dcd0e7/school.png",
-      "image_alt": "Roye-Williams Elementary School exterior",
-      "excerpt": "Two teachers were stabbed by a student during afternoon dismissal at Roye-Williams Elementary School in Havre de Grace, Maryland. Both were hospitalized with non-life-threatening injuries and have been released; the student was detained and no children were hurt.",
-      "category": "Incident",
-      "state": "MD",
       "featured": false
     }
   ]
