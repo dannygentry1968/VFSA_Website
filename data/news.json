@@ -1,6 +1,62 @@
 {
-  "updated": "2026-07-21T14:08:08Z",
+  "updated": "2026-07-26T14:11:05Z",
   "articles": [
+    {
+      "id": "2026-07-21-howard-county-teacher-sues-board",
+      "headline": "Teacher Sues Howard Co. Board Of Education: Report",
+      "source": "Patch",
+      "source_url": "https://patch.com",
+      "date": "2026-07-21",
+      "url": "https://patch.com/maryland/ellicottcity/teacher-sues-howard-co-board-education-report",
+      "image": "https://patch.com/img/cdn20/shutterstock/23352305/20260720/112830/styles/patch_image/public/shutterstock-1162904905___20232736067.jpg",
+      "image_alt": "School building exterior stock photo",
+      "excerpt": "A math specialist at Bonnie Branch Middle School is suing the Howard County Board of Education for $750,000, alleging it failed to protect her after a parent blocked her in a conference room in 2023 — an encounter she says later triggered a stroke.",
+      "category": "Response",
+      "state": "MD",
+      "featured": true
+    },
+    {
+      "id": "2026-07-21-russell-county-school-safety-planning",
+      "headline": "First Responders to Meet for Annual School Safety Planning",
+      "source": "Laker Country 104.9 WJRS",
+      "source_url": "https://lakercountry.com",
+      "date": "2026-07-21",
+      "url": "https://lakercountry.com/2026/07/first-responders-to-meet-for-annual-school-safety-planning/",
+      "image": "https://lakercountry.com/wp-content/uploads/2026/07/Jackie-Grider.jpg",
+      "image_alt": "School safety planning meeting speaker",
+      "excerpt": "Law enforcement, fire, EMS, emergency dispatchers, school resource officers and school administrators will gather ahead of the new school year to review and strengthen safety procedures across local campuses.",
+      "category": "Response",
+      "state": "KY",
+      "featured": false
+    },
+    {
+      "id": "2026-07-17-opelousas-woman-terrorizing-assault-teacher",
+      "headline": "Opelousas woman accused of terrorizing, assault on teacher",
+      "source": "KATC (ABC)",
+      "source_url": "https://www.katc.com",
+      "date": "2026-07-17",
+      "url": "https://www.katc.com/st-landry-parish/opelousas-woman-accused-of-terrorizing-assault-on-teacher",
+      "image": "https://ewscripps.brightspotcdn.com/dims4/default/e5ddd45/2147483647/strip/true/crop/786x413+0+15/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmediaassets.katc.com%2Fcordillera-network%2Fwp-content%2Fuploads%2Fsites%2F3%2F2019%2F01%2F22120333%2FSt.-Landry-Parish-Sheriff.jpg",
+      "image_alt": "St. Landry Parish Sheriff's Office insignia",
+      "excerpt": "A 25-year-old Opelousas woman was arrested after allegedly threatening a school paraprofessional and the St. Landry Parish Sheriff's Office. She faces a felony terrorizing count and four felony counts of assault on a school teacher.",
+      "category": "Incident",
+      "state": "LA",
+      "featured": false
+    },
+    {
+      "id": "2026-07-16-ascension-schools-weapons-detection-upgrades",
+      "headline": "Ascension Public Schools rolling out upgrades ahead of new school year",
+      "source": "BRProud via Yahoo News",
+      "source_url": "https://www.brproud.com",
+      "date": "2026-07-16",
+      "url": "https://www.yahoo.com/news/us/articles/ascension-public-schools-rolling-upgrades-034119149.html",
+      "image": "https://s.yimg.com/lo/mysterio/api/3050f2da361982d77d0022d766d33de68a84ce452ae60256ff6b356a48ff8575/lightyear_networkapi/resizefill_w900_h506;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fwvla_baton_rouge_articles_384%2F013b2950837eeb532785e25d0a6ed92d",
+      "image_alt": "School security screening equipment",
+      "excerpt": "The Louisiana district is investing $2.5 million in AI-powered weapons detection systems at every campus and requiring clear backpacks and water bottles for all students as part of a broader push for faster, safer school entry.",
+      "category": "Response",
+      "state": "LA",
+      "featured": false
+    },
     {
       "id": "2026-07-15-kentucky-sb101-expulsion-law-takes-effect",
       "headline": "Public schools across Kentucky will see changes starting Wednesday",
@@ -69,7 +125,7 @@
       "excerpt": "Hawaiʻi's HB 1888 makes harassment of school employees a misdemeanor, requires threats be reported to police within 48 hours, and lets the attorney general help educators obtain restraining orders against aggressors.",
       "category": "Policy",
       "state": "HI",
-      "featured": true
+      "featured": false
     },
     {
       "id": "2026-07-13-manhattan-west-side-hs-gun-arrest",
@@ -84,7 +140,9 @@
       "category": "Incident",
       "state": "NY",
       "featured": false
-    },
+    }
+  ],
+  "archive": [
     {
       "id": "2026-07-07-fitzgerald-summer-classes-canceled-threat",
       "headline": "Fitzgerald Public Schools cancels summer classes, camp after threatening email",
@@ -97,6 +155,20 @@
       "excerpt": "Fitzgerald Public Schools in Warren, Michigan canceled all summer classes and camp programming after district leaders received a threatening email targeting multiple school buildings. Officials suspended programs while working with law enforcement to assess the threat.",
       "category": "Incident",
       "state": "MI",
+      "featured": false
+    },
+    {
+      "id": "2026-07-07-student-attacks-on-teachers-analysis",
+      "headline": "Now It's Student Attacks on Teachers: Are Our Schools Out of Control?",
+      "source": "RedState",
+      "source_url": "https://redstate.com",
+      "date": "2026-07-07",
+      "url": "https://redstate.com/wardclark/2026/07/07/now-its-student-attacks-on-teachers-are-our-schools-out-of-control-n2204067",
+      "image": "https://media.townhall.com/cdn/hodl/rs/images/up/2025/266/260e3d99-976c-4fa6-af94-4ef1dbc584a1.png",
+      "image_alt": "Empty classroom with desks",
+      "excerpt": "A national commentary surveys the string of recent student attacks on teachers, from a Maryland stabbing to a Montana classroom beating, and asks whether schools have lost the authority to protect the adults in the classroom as discipline structures erode.",
+      "category": "Analysis",
+      "state": null,
       "featured": false
     },
     {
@@ -114,50 +186,6 @@
       "featured": false
     },
     {
-      "id": "2026-07-01-georgia-ricky-alyssa-panic-alert-teachers",
-      "headline": "'Ricky and Alyssa's Law' will require all GA public schools to install mobile panic alert systems beginning July 1",
-      "source": "The Georgia Gazette",
-      "source_url": "https://thegeorgiagazette.com",
-      "date": "2026-07-01",
-      "url": "https://thegeorgiagazette.com/featured/ricky-and-alyssas-law-will-require-all-ga-public-schools-to-install-mobile-panic-alert-systems-beginning-july-1/",
-      "image": "https://cdn.thegeorgiagazette.com/wp-content/uploads/2025/06/Gavel-Flag-FINAL.jpg",
-      "image_alt": "Gavel and American flag",
-      "excerpt": "Beginning July 1, Georgia's 'Ricky and Alyssa's Law' requires every public school to deploy mobile panic-alert devices, putting an emergency button in the hands of every teacher and administrator and linking directly to first responders. It honors two victims of school violence.",
-      "category": "Response",
-      "state": "GA",
-      "featured": false
-    },
-    {
-      "id": "2026-06-30-long-beach-teacher-injuries-workers-comp",
-      "headline": "Teachers say they're being bitten, headbutted and bruised while trying to manage classrooms",
-      "source": "LAist (NPR)",
-      "source_url": "https://laist.com",
-      "date": "2026-06-30",
-      "url": "https://laist.com/news/education/teachers-bitten-headbutted-bruised-classroom-management",
-      "image": "https://scpr.brightspotcdn.com/dims4/default/beaff27/2147483647/strip/true/crop/1200x630+0+45/resize/1200x630!/quality/90/?url=http%3A%2F%2Fscpr-brightspot.s3.us-west-2.amazonaws.com%2F1b%2F50%2Fc5348056422fb63c5f12328f1f17%2F06-23-2026-teacher-1-029881-xezo4asl-318936-j1vfvrfy.jpg",
-      "image_alt": "Long Beach classroom teacher portrait",
-      "excerpt": "A Long Beach Post analysis of hundreds of workers' comp claims found 72 LBUSD employees severely hurt by a student in 2024-25, up from 49 three years earlier — with educators reporting bites, headbutts and lasting injuries.",
-      "category": "Analysis",
-      "state": "CA",
-      "featured": false
-    }
-  ],
-  "archive": [
-    {
-      "id": "2026-07-07-student-attacks-on-teachers-analysis",
-      "headline": "Now It's Student Attacks on Teachers: Are Our Schools Out of Control?",
-      "source": "RedState",
-      "source_url": "https://redstate.com",
-      "date": "2026-07-07",
-      "url": "https://redstate.com/wardclark/2026/07/07/now-its-student-attacks-on-teachers-are-our-schools-out-of-control-n2204067",
-      "image": "https://media.townhall.com/cdn/hodl/rs/images/up/2025/266/260e3d99-976c-4fa6-af94-4ef1dbc584a1.png",
-      "image_alt": "Empty classroom with desks",
-      "excerpt": "A national commentary surveys the string of recent student attacks on teachers, from a Maryland stabbing to a Montana classroom beating, and asks whether schools have lost the authority to protect the adults in the classroom as discipline structures erode.",
-      "category": "Analysis",
-      "state": null,
-      "featured": false
-    },
-    {
       "id": "2026-07-06-california-new-school-safety-laws",
       "headline": "California schools must follow new cellphone, bathroom and safety laws",
       "source": "Jefferson Public Radio (NPR)",
@@ -169,6 +197,20 @@
       "excerpt": "New California laws taking effect this school year require districts to restrict student cellphone use and expand campus safety measures, including staff training requirements and broader background checks for school employees.",
       "category": "Policy",
       "state": "CA",
+      "featured": false
+    },
+    {
+      "id": "2026-07-01-georgia-ricky-alyssa-panic-alert-teachers",
+      "headline": "'Ricky and Alyssa's Law' will require all GA public schools to install mobile panic alert systems beginning July 1",
+      "source": "The Georgia Gazette",
+      "source_url": "https://thegeorgiagazette.com",
+      "date": "2026-07-01",
+      "url": "https://thegeorgiagazette.com/featured/ricky-and-alyssas-law-will-require-all-ga-public-schools-to-install-mobile-panic-alert-systems-beginning-july-1/",
+      "image": "https://cdn.thegeorgiagazette.com/wp-content/uploads/2025/06/Gavel-Flag-FINAL.jpg",
+      "image_alt": "Gavel and American flag",
+      "excerpt": "Beginning July 1, Georgia's 'Ricky and Alyssa's Law' requires every public school to deploy mobile panic-alert devices, putting an emergency button in the hands of every teacher and administrator and linking directly to first responders. It honors two victims of school violence.",
+      "category": "Response",
+      "state": "GA",
       "featured": false
     },
     {
@@ -200,17 +242,17 @@
       "featured": false
     },
     {
-      "id": "2026-06-23-centegix-school-safety-trends-report",
-      "headline": "New 2026 K-12 School Safety Trends Report, Based on More Than 346,000 Alerts, Shows How Schools Are Improving Response Times, Coordination, and Outcomes in Emergencies",
-      "source": "CENTEGIX",
-      "source_url": "https://www.centegix.com",
-      "date": "2026-06-23",
-      "url": "https://www.centegix.com/press-release/new-2026-k-12-school-safety-trends-report/",
-      "image": "https://mlq2h1nro0sr.i.optimole.com/cb:i1LB.5adfe/w:auto/h:auto/q:mauto/f:best/https://www.centegix.com/wp-content/uploads/2026/06/2026-School-Safety-Trends-Report-Featured-Image-.png",
-      "image_alt": "School safety trends report cover",
-      "excerpt": "A new report drawing on more than 346,000 wearable panic-button alerts finds 88% involved behavioral incidents such as physical altercations, and 94% of school staff say having a panic button makes them feel safer on campus. Alert use rose 31% year over year.",
+      "id": "2026-06-30-long-beach-teacher-injuries-workers-comp",
+      "headline": "Teachers say they're being bitten, headbutted and bruised while trying to manage classrooms",
+      "source": "LAist (NPR)",
+      "source_url": "https://laist.com",
+      "date": "2026-06-30",
+      "url": "https://laist.com/news/education/teachers-bitten-headbutted-bruised-classroom-management",
+      "image": "https://scpr.brightspotcdn.com/dims4/default/beaff27/2147483647/strip/true/crop/1200x630+0+45/resize/1200x630!/quality/90/?url=http%3A%2F%2Fscpr-brightspot.s3.us-west-2.amazonaws.com%2F1b%2F50%2Fc5348056422fb63c5f12328f1f17%2F06-23-2026-teacher-1-029881-xezo4asl-318936-j1vfvrfy.jpg",
+      "image_alt": "Long Beach classroom teacher portrait",
+      "excerpt": "A Long Beach Post analysis of hundreds of workers' comp claims found 72 LBUSD employees severely hurt by a student in 2024-25, up from 49 three years earlier — with educators reporting bites, headbutts and lasting injuries.",
       "category": "Analysis",
-      "state": null,
+      "state": "CA",
       "featured": false
     }
   ]
