@@ -1,6 +1,48 @@
 {
-  "updated": "2026-07-26T14:11:05Z",
+  "updated": "2026-07-27T14:13:32Z",
   "articles": [
+    {
+      "id": "2026-07-27-lamar-county-weapons-detectors-ai-cameras",
+      "headline": "Lamar County Schools introducing weapons detectors, AI camera detection",
+      "source": "WDAM (NBC/ABC)",
+      "source_url": "https://www.wdam.com",
+      "date": "2026-07-27",
+      "url": "https://www.wdam.com/2026/07/27/lamar-county-schools-introducing-weapons-detectors-ai-camera-detection/",
+      "image": "https://gray-wdam-prod.gtv-cdn.com/resizer/v2/XYVG6NR7OBBW5BBIP3UFCGF7XU.png?auth=213a0e1a7901d46c80c2b5e7660f5b7afc1cb6bdb04855b8aa3c9f6d229368fb&width=1200&height=600&smart=true",
+      "image_alt": "Weapons detection scanners at school entrance",
+      "excerpt": "Lamar County Schools will make weapons detection a daily practice at every middle and high school campus this year, pairing walk-through detectors with AI camera monitoring as districts across Mississippi harden campuses before classes resume.",
+      "category": "Response",
+      "state": "MS",
+      "featured": false
+    },
+    {
+      "id": "2026-07-24-apalachee-shooter-pleads-guilty-all-counts",
+      "headline": "Colt Gray, Georgia school shooter, pleads guilty and victims deliver emotional statements in court",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "date": "2026-07-24",
+      "url": "https://www.cnn.com/2026/07/24/us/live-news/colt-gray-plea-apalachee-shooting-georgia",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26205508569245.jpg?c=16x9&q=w_800,c_fill",
+      "image_alt": "Courtroom scene at Apalachee plea hearing",
+      "excerpt": "Colt Gray pleaded guilty to all 55 counts in the 2024 Apalachee High School shooting that killed teachers Richard Aspinwall and Cristina Irimie and two students. Families and wounded survivors urged the judge to deny any possibility of parole.",
+      "category": "Incident",
+      "state": "GA",
+      "featured": true
+    },
+    {
+      "id": "2026-07-22-dorchester-county-active-shooter-drill",
+      "headline": "Dorchester County agencies hold active shooter drill ahead of new school year",
+      "source": "Live 5 News (CBS)",
+      "source_url": "https://www.live5news.com",
+      "date": "2026-07-22",
+      "url": "https://www.live5news.com/2026/07/22/dorchester-county-agencies-hold-active-shooter-drill-ahead-new-school-year/",
+      "image": "https://gray-wcsc-prod.gtv-cdn.com/resizer/v2/QFJ7KF4ADJGMLJA7IMVRE2QZIE.jpg?auth=7d4e21828e24a07b11f5030dadc344851647cba5f6107d336f5ac6d4b787aa3c&width=1200&height=600&smart=true",
+      "image_alt": "First responders during school safety drill",
+      "excerpt": "With the new school year weeks away, first responders and school officials in Dorchester County ran worst-case active shooter scenarios at Williams Memorial Elementary, drilling the coordination needed to protect educators and students in a real attack.",
+      "category": "Response",
+      "state": "SC",
+      "featured": false
+    },
     {
       "id": "2026-07-21-howard-county-teacher-sues-board",
       "headline": "Teacher Sues Howard Co. Board Of Education: Report",
@@ -13,7 +55,7 @@
       "excerpt": "A math specialist at Bonnie Branch Middle School is suing the Howard County Board of Education for $750,000, alleging it failed to protect her after a parent blocked her in a conference room in 2023 — an encounter she says later triggered a stroke.",
       "category": "Response",
       "state": "MD",
-      "featured": true
+      "featured": false
     },
     {
       "id": "2026-07-21-russell-county-school-safety-planning",
@@ -27,6 +69,20 @@
       "excerpt": "Law enforcement, fire, EMS, emergency dispatchers, school resource officers and school administrators will gather ahead of the new school year to review and strengthen safety procedures across local campuses.",
       "category": "Response",
       "state": "KY",
+      "featured": false
+    },
+    {
+      "id": "2026-07-19-aft-convention-workplace-violence-resolutions",
+      "headline": "AFT Re-elects Officers, Hears from Union and Political Leaders, Passes Suite of Resolutions at 2026 Convention",
+      "source": "American Federation of Teachers",
+      "source_url": "https://www.aft.org",
+      "date": "2026-07-19",
+      "url": "https://www.aft.org/press-release/aft-re-elects-officers-hears-union-and-political-leaders-passes-suite-resolutions",
+      "image": "https://www.aft.org/sites/default/files/styles/open_graph_image/public/media/images/2022/aftpressrelease.jpeg?h=c7662ed4&itok=wnciFKdi",
+      "image_alt": "AFT press release announcement graphic",
+      "excerpt": "At its 2026 convention, the AFT adopted a resolution declaring violence is never 'part of the job,' demanding enforceable workplace violence protections for teachers and school staff — noting 1 in 4 nonfatal workplace violence incidents target school employees.",
+      "category": "Policy",
+      "state": null,
       "featured": false
     },
     {
@@ -84,7 +140,9 @@
       "category": "Incident",
       "state": "MI",
       "featured": false
-    },
+    }
+  ],
+  "archive": [
     {
       "id": "2026-07-15-cnn-school-shootings-2026-fast-facts",
       "headline": "School shootings in the US: Fast facts",
@@ -140,9 +198,7 @@
       "category": "Incident",
       "state": "NY",
       "featured": false
-    }
-  ],
-  "archive": [
+    },
     {
       "id": "2026-07-07-fitzgerald-summer-classes-canceled-threat",
       "headline": "Fitzgerald Public Schools cancels summer classes, camp after threatening email",
