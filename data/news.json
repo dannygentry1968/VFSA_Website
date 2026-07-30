@@ -1,6 +1,62 @@
 {
-  "updated": "2026-07-27T14:13:32Z",
+  "updated": "2026-07-30T16:40:24Z",
   "articles": [
+    {
+      "id": "2026-07-30-colin-gray-sentencing-hearing",
+      "headline": "Judge to sentence Colin Gray after closing arguments in Apalachee school shooting case",
+      "source": "CBS News Atlanta",
+      "source_url": "https://www.cbsnews.com/atlanta/",
+      "date": "2026-07-30",
+      "url": "https://www.cbsnews.com/atlanta/news/sentencing-hearing-begins-for-colin-gray-father-who-gave-gun-to-apalachee-high-school-shooter/",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/02/19/ead8f5c3-880b-4fb1-bc61-ce694866cedd/thumbnail/1200x630/cc50f66635a412683342240568bca2e9/colin-gray-trial-d4-2.png",
+      "image_alt": "Colin Gray in courtroom during trial",
+      "excerpt": "Colin Gray, the first parent of a school shooter convicted of murder, faces up to 180 years for giving his son the rifle used at Apalachee High School. Prosecutors asked for 80 years as the sentencing hearing opened Thursday.",
+      "category": "Response",
+      "state": "GA",
+      "featured": false
+    },
+    {
+      "id": "2026-07-28-colt-gray-sentenced-life-without-parole",
+      "headline": "Teen gets life without parole for killing 4 at Georgia's Apalachee High School",
+      "source": "Spectrum News",
+      "source_url": "https://spectrumlocalnews.com",
+      "date": "2026-07-28",
+      "url": "https://spectrumlocalnews.com/us/snplus/public-safety/2026/07/28/colt-gray-sentenced-life-without-parole-apalachee-high-school-shooting-georgia",
+      "image": "https://s7d2.scene7.com/is/image/TWCNews/colt_gray_AP_26208843944919_NAT_0728",
+      "image_alt": "Colt Gray at sentencing hearing",
+      "excerpt": "Colt Gray was sentenced to life in prison without parole for the 2024 Apalachee High School shooting that killed teachers Richard Aspinwall and Cristina Irimie and two students. The judge said the attack was carried out “for the infamy of it.”",
+      "category": "Incident",
+      "state": "GA",
+      "featured": true
+    },
+    {
+      "id": "2026-07-28-us-school-violence-fast-facts",
+      "headline": "US School Violence Fast Facts",
+      "source": "KESQ (CNN)",
+      "source_url": "https://kesq.com",
+      "date": "2026-07-28",
+      "url": "https://kesq.com/news/national-world/cnn-national/2026/07/28/us-school-violence-fast-facts-7/",
+      "image": "https://kesq.b-cdn.net/2023/08/kesq-860x484.jpg",
+      "image_alt": "News graphic on school violence",
+      "excerpt": "CNN's updated fast facts compile the nationwide toll of school violence, tracking shootings and attacks on campuses — a running record of the incidents that have made educator safety a national concern heading into the 2026-27 school year.",
+      "category": "Analysis",
+      "state": null,
+      "featured": false
+    },
+    {
+      "id": "2026-07-27-dorchester-two-armed-security-force",
+      "headline": "Dorchester District Two adding armed security force ahead of new school year",
+      "source": "ABC News 4 (WCIV)",
+      "source_url": "https://abcnews4.com",
+      "date": "2026-07-27",
+      "url": "https://abcnews4.com/elections/dorchester-district-two-to-add-private-security-for-new-school-year-safetyu-teacher-student-region-south-carolina-news-security-is-this-a-good-idea-sled-trained-crime-prevention-new-project",
+      "image": "https://abcnews4.com/resources/media/88791393-7325-46c9-80aa-54c18db247e1-jumbo16x9_DD2.PNG",
+      "image_alt": "Dorchester District Two school security",
+      "excerpt": "Dorchester District Two will deploy 14 armed, SLED-trained school security officers across its high schools and alternative school this fall, adding to the district's 37 school resource officers as campuses harden ahead of the new year.",
+      "category": "Response",
+      "state": "SC",
+      "featured": false
+    },
     {
       "id": "2026-07-27-lamar-county-weapons-detectors-ai-cameras",
       "headline": "Lamar County Schools introducing weapons detectors, AI camera detection",
@@ -14,20 +70,6 @@
       "category": "Response",
       "state": "MS",
       "featured": false
-    },
-    {
-      "id": "2026-07-24-apalachee-shooter-pleads-guilty-all-counts",
-      "headline": "Colt Gray, Georgia school shooter, pleads guilty and victims deliver emotional statements in court",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "date": "2026-07-24",
-      "url": "https://www.cnn.com/2026/07/24/us/live-news/colt-gray-plea-apalachee-shooting-georgia",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26205508569245.jpg?c=16x9&q=w_800,c_fill",
-      "image_alt": "Courtroom scene at Apalachee plea hearing",
-      "excerpt": "Colt Gray pleaded guilty to all 55 counts in the 2024 Apalachee High School shooting that killed teachers Richard Aspinwall and Cristina Irimie and two students. Families and wounded survivors urged the judge to deny any possibility of parole.",
-      "category": "Incident",
-      "state": "GA",
-      "featured": true
     },
     {
       "id": "2026-07-22-dorchester-county-active-shooter-drill",
@@ -98,6 +140,22 @@
       "category": "Incident",
       "state": "LA",
       "featured": false
+    }
+  ],
+  "archive": [
+    {
+      "id": "2026-07-24-apalachee-shooter-pleads-guilty-all-counts",
+      "headline": "Colt Gray, Georgia school shooter, pleads guilty and victims deliver emotional statements in court",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "date": "2026-07-24",
+      "url": "https://www.cnn.com/2026/07/24/us/live-news/colt-gray-plea-apalachee-shooting-georgia",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26205508569245.jpg?c=16x9&q=w_800,c_fill",
+      "image_alt": "Courtroom scene at Apalachee plea hearing",
+      "excerpt": "Colt Gray pleaded guilty to all 55 counts in the 2024 Apalachee High School shooting that killed teachers Richard Aspinwall and Cristina Irimie and two students. Families and wounded survivors urged the judge to deny any possibility of parole.",
+      "category": "Incident",
+      "state": "GA",
+      "featured": false
     },
     {
       "id": "2026-07-16-ascension-schools-weapons-detection-upgrades",
@@ -140,9 +198,7 @@
       "category": "Incident",
       "state": "MI",
       "featured": false
-    }
-  ],
-  "archive": [
+    },
     {
       "id": "2026-07-15-cnn-school-shootings-2026-fast-facts",
       "headline": "School shootings in the US: Fast facts",
