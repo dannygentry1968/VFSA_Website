@@ -1,19 +1,19 @@
 {
-  "updated": "2026-07-30T16:40:24Z",
+  "updated": "2026-08-05T14:09:13Z",
   "articles": [
     {
-      "id": "2026-07-30-colin-gray-sentencing-hearing",
-      "headline": "Judge to sentence Colin Gray after closing arguments in Apalachee school shooting case",
-      "source": "CBS News Atlanta",
-      "source_url": "https://www.cbsnews.com/atlanta/",
-      "date": "2026-07-30",
-      "url": "https://www.cbsnews.com/atlanta/news/sentencing-hearing-begins-for-colin-gray-father-who-gave-gun-to-apalachee-high-school-shooter/",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/02/19/ead8f5c3-880b-4fb1-bc61-ce694866cedd/thumbnail/1200x630/cc50f66635a412683342240568bca2e9/colin-gray-trial-d4-2.png",
-      "image_alt": "Colin Gray in courtroom during trial",
-      "excerpt": "Colin Gray, the first parent of a school shooter convicted of murder, faces up to 180 years for giving his son the rifle used at Apalachee High School. Prosecutors asked for 80 years as the sentencing hearing opened Thursday.",
+      "id": "2026-08-04-colin-gray-processed-georgia-prison",
+      "headline": "Apalachee shooter's father Colin Gray processed into Georgia prison",
+      "source": "WRDW News 12",
+      "source_url": "https://www.wrdw.com",
+      "date": "2026-08-04",
+      "url": "https://www.wrdw.com/2026/08/04/apalachee-shooters-father-colin-gray-processed-into-georgia-prison/",
+      "image": "https://gray-wrdw-prod.gtv-cdn.com/resizer/v2/EB6C2NSGIZA6RLA5NG67PK4BE4.png?auth=806b538c722e36b27ddc6488fc502152b9d9f84e65662ca2546c90450721ae81&width=1200&height=600&smart=true",
+      "image_alt": "Colin Gray prison booking photo",
+      "excerpt": "Colin Gray, the first parent in the U.S. convicted of murder for a school shooting carried out by his child, has been processed into Georgia's maximum-security Jackson prison to begin a 15-year sentence for the Apalachee attack that killed two teachers and two students.",
       "category": "Response",
       "state": "GA",
-      "featured": false
+      "featured": true
     },
     {
       "id": "2026-07-28-colt-gray-sentenced-life-without-parole",
@@ -27,7 +27,7 @@
       "excerpt": "Colt Gray was sentenced to life in prison without parole for the 2024 Apalachee High School shooting that killed teachers Richard Aspinwall and Cristina Irimie and two students. The judge said the attack was carried out “for the infamy of it.”",
       "category": "Incident",
       "state": "GA",
-      "featured": true
+      "featured": false
     },
     {
       "id": "2026-07-28-us-school-violence-fast-facts",
@@ -69,6 +69,20 @@
       "excerpt": "Lamar County Schools will make weapons detection a daily practice at every middle and high school campus this year, pairing walk-through detectors with AI camera monitoring as districts across Mississippi harden campuses before classes resume.",
       "category": "Response",
       "state": "MS",
+      "featured": false
+    },
+    {
+      "id": "2026-07-24-metro-atlanta-districts-safety-measures",
+      "headline": "Metro Atlanta school districts increase safety measures ahead of upcoming school year",
+      "source": "Atlanta News First (WANF)",
+      "source_url": "https://www.atlantanewsfirst.com",
+      "date": "2026-07-24",
+      "url": "https://www.atlantanewsfirst.com/2026/07/24/metro-atlanta-school-districts-increase-safety-measures-ahead-upcoming-school-year/",
+      "image": "https://gray-wgcl-prod.gtv-cdn.com/resizer/v2/GWITYYSGJRAADDCIOLY43OPRJE.png?auth=10aacaa7ee2b357323df334064a9b2100f832383599a03fefe9f4710b3379c06&width=1200&height=600&smart=true",
+      "image_alt": "Weapons detection system at school entrance",
+      "excerpt": "Atlanta Public Schools has added tactical and drone units to its police force, while Gwinnett County, Georgia's largest district, now runs AI weapons detectors at every middle and high school, part of a metro-wide push to harden campuses before students return.",
+      "category": "Response",
+      "state": "GA",
       "featured": false
     },
     {
@@ -126,6 +140,36 @@
       "category": "Policy",
       "state": null,
       "featured": false
+    }
+  ],
+  "archive": [
+    {
+      "id": "2026-07-30-colin-gray-sentencing-hearing",
+      "headline": "Judge to sentence Colin Gray after closing arguments in Apalachee school shooting case",
+      "source": "CBS News Atlanta",
+      "source_url": "https://www.cbsnews.com/atlanta/",
+      "date": "2026-07-30",
+      "url": "https://www.cbsnews.com/atlanta/news/sentencing-hearing-begins-for-colin-gray-father-who-gave-gun-to-apalachee-high-school-shooter/",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/02/19/ead8f5c3-880b-4fb1-bc61-ce694866cedd/thumbnail/1200x630/cc50f66635a412683342240568bca2e9/colin-gray-trial-d4-2.png",
+      "image_alt": "Colin Gray in courtroom during trial",
+      "excerpt": "Colin Gray, the first parent of a school shooter convicted of murder, faces up to 180 years for giving his son the rifle used at Apalachee High School. Prosecutors asked for 80 years as the sentencing hearing opened Thursday.",
+      "category": "Response",
+      "state": "GA",
+      "featured": false
+    },
+    {
+      "id": "2026-07-24-apalachee-shooter-pleads-guilty-all-counts",
+      "headline": "Colt Gray, Georgia school shooter, pleads guilty and victims deliver emotional statements in court",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "date": "2026-07-24",
+      "url": "https://www.cnn.com/2026/07/24/us/live-news/colt-gray-plea-apalachee-shooting-georgia",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26205508569245.jpg?c=16x9&q=w_800,c_fill",
+      "image_alt": "Courtroom scene at Apalachee plea hearing",
+      "excerpt": "Colt Gray pleaded guilty to all 55 counts in the 2024 Apalachee High School shooting that killed teachers Richard Aspinwall and Cristina Irimie and two students. Families and wounded survivors urged the judge to deny any possibility of parole.",
+      "category": "Incident",
+      "state": "GA",
+      "featured": false
     },
     {
       "id": "2026-07-17-opelousas-woman-terrorizing-assault-teacher",
@@ -139,22 +183,6 @@
       "excerpt": "A 25-year-old Opelousas woman was arrested after allegedly threatening a school paraprofessional and the St. Landry Parish Sheriff's Office. She faces a felony terrorizing count and four felony counts of assault on a school teacher.",
       "category": "Incident",
       "state": "LA",
-      "featured": false
-    }
-  ],
-  "archive": [
-    {
-      "id": "2026-07-24-apalachee-shooter-pleads-guilty-all-counts",
-      "headline": "Colt Gray, Georgia school shooter, pleads guilty and victims deliver emotional statements in court",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "date": "2026-07-24",
-      "url": "https://www.cnn.com/2026/07/24/us/live-news/colt-gray-plea-apalachee-shooting-georgia",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26205508569245.jpg?c=16x9&q=w_800,c_fill",
-      "image_alt": "Courtroom scene at Apalachee plea hearing",
-      "excerpt": "Colt Gray pleaded guilty to all 55 counts in the 2024 Apalachee High School shooting that killed teachers Richard Aspinwall and Cristina Irimie and two students. Families and wounded survivors urged the judge to deny any possibility of parole.",
-      "category": "Incident",
-      "state": "GA",
       "featured": false
     },
     {
@@ -308,62 +336,6 @@
       "image_alt": "Students using cellphones at school",
       "excerpt": "New California laws taking effect this school year require districts to restrict student cellphone use and expand campus safety measures, including staff training requirements and broader background checks for school employees.",
       "category": "Policy",
-      "state": "CA",
-      "featured": false
-    },
-    {
-      "id": "2026-07-01-georgia-ricky-alyssa-panic-alert-teachers",
-      "headline": "'Ricky and Alyssa's Law' will require all GA public schools to install mobile panic alert systems beginning July 1",
-      "source": "The Georgia Gazette",
-      "source_url": "https://thegeorgiagazette.com",
-      "date": "2026-07-01",
-      "url": "https://thegeorgiagazette.com/featured/ricky-and-alyssas-law-will-require-all-ga-public-schools-to-install-mobile-panic-alert-systems-beginning-july-1/",
-      "image": "https://cdn.thegeorgiagazette.com/wp-content/uploads/2025/06/Gavel-Flag-FINAL.jpg",
-      "image_alt": "Gavel and American flag",
-      "excerpt": "Beginning July 1, Georgia's 'Ricky and Alyssa's Law' requires every public school to deploy mobile panic-alert devices, putting an emergency button in the hands of every teacher and administrator and linking directly to first responders. It honors two victims of school violence.",
-      "category": "Response",
-      "state": "GA",
-      "featured": false
-    },
-    {
-      "id": "2026-07-01-minnesota-anonymous-threat-reporting-law",
-      "headline": "Minnesota's anonymous school threat reporting system law begins July 1",
-      "source": "FOX 9 (Minneapolis)",
-      "source_url": "https://www.fox9.com",
-      "date": "2026-07-01",
-      "url": "https://www.fox9.com/news/mn-anonymous-school-threat-reporting-law-july-1-2026",
-      "image": "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2025/03/1200/630/school-bus.jpg",
-      "image_alt": "School bus on a street",
-      "excerpt": "A Minnesota law taking effect July 1 requires every public school district and charter school to provide an anonymous way to report threats via app, website, or hotline, giving students and staff a faster channel to flag danger to administrators before it escalates.",
-      "category": "Response",
-      "state": "MN",
-      "featured": false
-    },
-    {
-      "id": "2026-07-01-mississippi-minors-gun-crimes-charged-adults",
-      "headline": "July 1: New Mississippi laws take effect today",
-      "source": "WLOX (ABC)",
-      "source_url": "https://www.wlox.com",
-      "date": "2026-07-01",
-      "url": "https://www.wlox.com/2026/07/01/july-1-new-mississippi-laws-take-effect-today/",
-      "image": "https://gray-wlox-prod.gtv-cdn.com/resizer/v2/EJP7UDULB5GSBF6OKRADTCUHIY.png?auth=c72b7c068e9575eb707ac4f416de18a04f3b417597603b768ef5aaea189517a5&width=1200&height=600&smart=true",
-      "image_alt": "New Mississippi laws graphic",
-      "excerpt": "Among the new Mississippi laws taking effect July 1: anyone 18 or younger who commits a crime with a firearm will now be automatically charged as an adult. Backers frame the tougher stance as a deterrent to the weapons increasingly turning up on and around school campuses.",
-      "category": "Policy",
-      "state": "MS",
-      "featured": false
-    },
-    {
-      "id": "2026-06-30-long-beach-teacher-injuries-workers-comp",
-      "headline": "Teachers say they're being bitten, headbutted and bruised while trying to manage classrooms",
-      "source": "LAist (NPR)",
-      "source_url": "https://laist.com",
-      "date": "2026-06-30",
-      "url": "https://laist.com/news/education/teachers-bitten-headbutted-bruised-classroom-management",
-      "image": "https://scpr.brightspotcdn.com/dims4/default/beaff27/2147483647/strip/true/crop/1200x630+0+45/resize/1200x630!/quality/90/?url=http%3A%2F%2Fscpr-brightspot.s3.us-west-2.amazonaws.com%2F1b%2F50%2Fc5348056422fb63c5f12328f1f17%2F06-23-2026-teacher-1-029881-xezo4asl-318936-j1vfvrfy.jpg",
-      "image_alt": "Long Beach classroom teacher portrait",
-      "excerpt": "A Long Beach Post analysis of hundreds of workers' comp claims found 72 LBUSD employees severely hurt by a student in 2024-25, up from 49 three years earlier — with educators reporting bites, headbutts and lasting injuries.",
-      "category": "Analysis",
       "state": "CA",
       "featured": false
     }
