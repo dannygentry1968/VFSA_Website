@@ -1,6 +1,62 @@
 {
-  "updated": "2026-08-05T14:09:13Z",
+  "updated": "2026-08-06T14:09:32Z",
   "articles": [
+    {
+      "id": "2026-08-05-nc-weapons-offenses-20-year-low",
+      "headline": "School districts strengthen security while weapons possession offenses drop to 20-year low",
+      "source": "WRAL (NBC)",
+      "source_url": "https://www.wral.com",
+      "date": "2026-08-05",
+      "url": "https://www.wral.com/news/state/school-security-criminal-offenses-data-north-carolina-august-2026/",
+      "image": "https://images.wral.com/ebb73370-64fc-46f4-9a4e-93e131f91261?w=1200&h=630&height=630",
+      "image_alt": "North Carolina school security screening",
+      "excerpt": "Weapons possession offenses in North Carolina public schools fell to their lowest level since statewide records began in 2006-07, state data show, even as districts continue adding detection systems and security staff ahead of the new school year.",
+      "category": "Analysis",
+      "state": "NC",
+      "featured": false
+    },
+    {
+      "id": "2026-08-05-morgan-county-teen-terroristic-threats",
+      "headline": "Georgia teen arrested for making threat days into new school year",
+      "source": "WSB-TV (ABC)",
+      "source_url": "https://www.wsbtv.com",
+      "date": "2026-08-05",
+      "url": "https://www.wsbtv.com/news/local/georgia-teen-arrested-making-threat-days-into-new-school-year/F3JZ7AG4YFAXPBXTMQIHYUIMF4/",
+      "image": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FN2VTE2TQNFAMXGETKERPAYKKDM.jpg?auth=0d3017866cd94a4ee3d58f8df1723c1f6d18ad9865b73a6abc4c965a07de1836&width=1200&height=630&smart=true",
+      "image_alt": "Law enforcement outside Georgia school",
+      "excerpt": "A 14-year-old Morgan County Middle School student was taken into custody and charged with terroristic threats just two days into the new school year. The sheriff said threats of school violence are 'not negotiable' and each will be fully investigated.",
+      "category": "Incident",
+      "state": "GA",
+      "featured": false
+    },
+    {
+      "id": "2026-08-04-fcps-sb101-teacher-safety",
+      "headline": "FCPS addresses impacts of Senate Bill 101 on teacher safety",
+      "source": "WKYT (CBS)",
+      "source_url": "https://www.wkyt.com",
+      "date": "2026-08-04",
+      "url": "https://www.wkyt.com/2026/08/04/fcps-addresses-impacts-senate-bill-101-teacher-safety/",
+      "image": "https://gray-wkyt-prod.gtv-cdn.com/resizer/v2/AGMC64X2RRHHZBQPKBAIPDZXJY.jpg?auth=6d8801318001c95276a2bb032294055be3d27f6abc8d7089a7e72046b81f5cc8&width=1200&height=600&smart=true",
+      "image_alt": "Fayette County school board meeting",
+      "excerpt": "Fayette County Public Schools officials outlined how Kentucky's Senate Bill 101 will reshape discipline, requiring expulsion of students who intentionally injure educators. The new protections take effect as teachers return for the school year.",
+      "category": "Policy",
+      "state": "KY",
+      "featured": true
+    },
+    {
+      "id": "2026-08-04-houston-isd-safety-measures",
+      "headline": "Houston ISD Police Department readies safety, security measures for 2026-27 school year",
+      "source": "Community Impact",
+      "source_url": "https://communityimpact.com",
+      "date": "2026-08-04",
+      "url": "https://communityimpact.com/heights-river-oaks-montrose/education/houston-isd-police-department-readies-safety-security-measures-for-2026-27-school-year/",
+      "image": "https://communityimpact.com/og/cmsf5bsmagnpr01nxd9wu7rbe?v=1785877456",
+      "image_alt": "Houston ISD police news conference",
+      "excerpt": "Houston ISD police announced expanded safety measures ahead of the Aug. 10 start of the 2026-27 school year, adding more than 100 guards to monitor campuses along with around-the-clock patrols, officials said at an Aug. 4 news conference.",
+      "category": "Response",
+      "state": "TX",
+      "featured": false
+    },
     {
       "id": "2026-08-04-colin-gray-processed-georgia-prison",
       "headline": "Apalachee shooter's father Colin Gray processed into Georgia prison",
@@ -13,7 +69,35 @@
       "excerpt": "Colin Gray, the first parent in the U.S. convicted of murder for a school shooting carried out by his child, has been processed into Georgia's maximum-security Jackson prison to begin a 15-year sentence for the Apalachee attack that killed two teachers and two students.",
       "category": "Response",
       "state": "GA",
-      "featured": true
+      "featured": false
+    },
+    {
+      "id": "2026-07-30-metter-threat-faculty-charged",
+      "headline": "Metter juvenile charged after threat against high school faculty, staff and students",
+      "source": "WTOC (CBS)",
+      "source_url": "https://www.wtoc.com",
+      "date": "2026-07-30",
+      "url": "https://www.wtoc.com/2026/07/30/metter-juvenile-charged-after-threat-against-high-school-faculty-staff-students/",
+      "image": "https://gray-wtoc-prod.gtv-cdn.com/resizer/v2/X3UA6C2MKRG2HLOFIUR2UZTG6I.jpg?auth=79c88b4c79c0cfc8091365d3c5312954a6be9bc3a631966f4ce3643c45cb3398&width=1200&height=600&smart=true",
+      "image_alt": "Metter High School exterior",
+      "excerpt": "Metter police charged a juvenile with criminal attempt to commit murder and terroristic threats after a threatened act of violence against faculty, staff and students at Metter High School, days before classes resumed in Candler County.",
+      "category": "Incident",
+      "state": "GA",
+      "featured": false
+    },
+    {
+      "id": "2026-07-30-middle-georgia-robocall-threats",
+      "headline": "Two Middle Georgia schools receive anonymous threats ahead of first days of school",
+      "source": "WGXA (FOX)",
+      "source_url": "https://wgxa.tv",
+      "date": "2026-07-30",
+      "url": "https://wgxa.tv/news/local/two-middle-georgia-schools-receive-anonymous-threats-robo-calls-ahead-of-first-days-of-school-wheeler-county-schools-telfair-county-school-district-gbi-investigates-law-enforcement-search-dogs-school-safety",
+      "image": "https://wgxa.tv/resources/media2/16x9/1280/1320/center/90/d8125fec-9090-40af-916d-5077bcab6f6d-16X9VIDEOSOCALSWEB64.png",
+      "image_alt": "Law enforcement search at Georgia school",
+      "excerpt": "Wheeler County and Telfair County school districts were swept by law enforcement with K-9 teams after anonymous robocall threats arrived just ahead of the first days of school. The GBI is investigating the source of the calls.",
+      "category": "Incident",
+      "state": "GA",
+      "featured": false
     },
     {
       "id": "2026-07-28-colt-gray-sentenced-life-without-parole",
@@ -56,6 +140,22 @@
       "category": "Response",
       "state": "SC",
       "featured": false
+    }
+  ],
+  "archive": [
+    {
+      "id": "2026-07-30-colin-gray-sentencing-hearing",
+      "headline": "Judge to sentence Colin Gray after closing arguments in Apalachee school shooting case",
+      "source": "CBS News Atlanta",
+      "source_url": "https://www.cbsnews.com/atlanta/",
+      "date": "2026-07-30",
+      "url": "https://www.cbsnews.com/atlanta/news/sentencing-hearing-begins-for-colin-gray-father-who-gave-gun-to-apalachee-high-school-shooter/",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/02/19/ead8f5c3-880b-4fb1-bc61-ce694866cedd/thumbnail/1200x630/cc50f66635a412683342240568bca2e9/colin-gray-trial-d4-2.png",
+      "image_alt": "Colin Gray in courtroom during trial",
+      "excerpt": "Colin Gray, the first parent of a school shooter convicted of murder, faces up to 180 years for giving his son the rifle used at Apalachee High School. Prosecutors asked for 80 years as the sentencing hearing opened Thursday.",
+      "category": "Response",
+      "state": "GA",
+      "featured": false
     },
     {
       "id": "2026-07-27-lamar-county-weapons-detectors-ai-cameras",
@@ -69,6 +169,20 @@
       "excerpt": "Lamar County Schools will make weapons detection a daily practice at every middle and high school campus this year, pairing walk-through detectors with AI camera monitoring as districts across Mississippi harden campuses before classes resume.",
       "category": "Response",
       "state": "MS",
+      "featured": false
+    },
+    {
+      "id": "2026-07-24-apalachee-shooter-pleads-guilty-all-counts",
+      "headline": "Colt Gray, Georgia school shooter, pleads guilty and victims deliver emotional statements in court",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "date": "2026-07-24",
+      "url": "https://www.cnn.com/2026/07/24/us/live-news/colt-gray-plea-apalachee-shooting-georgia",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26205508569245.jpg?c=16x9&q=w_800,c_fill",
+      "image_alt": "Courtroom scene at Apalachee plea hearing",
+      "excerpt": "Colt Gray pleaded guilty to all 55 counts in the 2024 Apalachee High School shooting that killed teachers Richard Aspinwall and Cristina Irimie and two students. Families and wounded survivors urged the judge to deny any possibility of parole.",
+      "category": "Incident",
+      "state": "GA",
       "featured": false
     },
     {
@@ -139,36 +253,6 @@
       "excerpt": "At its 2026 convention, the AFT adopted a resolution declaring violence is never 'part of the job,' demanding enforceable workplace violence protections for teachers and school staff — noting 1 in 4 nonfatal workplace violence incidents target school employees.",
       "category": "Policy",
       "state": null,
-      "featured": false
-    }
-  ],
-  "archive": [
-    {
-      "id": "2026-07-30-colin-gray-sentencing-hearing",
-      "headline": "Judge to sentence Colin Gray after closing arguments in Apalachee school shooting case",
-      "source": "CBS News Atlanta",
-      "source_url": "https://www.cbsnews.com/atlanta/",
-      "date": "2026-07-30",
-      "url": "https://www.cbsnews.com/atlanta/news/sentencing-hearing-begins-for-colin-gray-father-who-gave-gun-to-apalachee-high-school-shooter/",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/02/19/ead8f5c3-880b-4fb1-bc61-ce694866cedd/thumbnail/1200x630/cc50f66635a412683342240568bca2e9/colin-gray-trial-d4-2.png",
-      "image_alt": "Colin Gray in courtroom during trial",
-      "excerpt": "Colin Gray, the first parent of a school shooter convicted of murder, faces up to 180 years for giving his son the rifle used at Apalachee High School. Prosecutors asked for 80 years as the sentencing hearing opened Thursday.",
-      "category": "Response",
-      "state": "GA",
-      "featured": false
-    },
-    {
-      "id": "2026-07-24-apalachee-shooter-pleads-guilty-all-counts",
-      "headline": "Colt Gray, Georgia school shooter, pleads guilty and victims deliver emotional statements in court",
-      "source": "CNN",
-      "source_url": "https://www.cnn.com",
-      "date": "2026-07-24",
-      "url": "https://www.cnn.com/2026/07/24/us/live-news/colt-gray-plea-apalachee-shooting-georgia",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26205508569245.jpg?c=16x9&q=w_800,c_fill",
-      "image_alt": "Courtroom scene at Apalachee plea hearing",
-      "excerpt": "Colt Gray pleaded guilty to all 55 counts in the 2024 Apalachee High School shooting that killed teachers Richard Aspinwall and Cristina Irimie and two students. Families and wounded survivors urged the judge to deny any possibility of parole.",
-      "category": "Incident",
-      "state": "GA",
       "featured": false
     },
     {
@@ -309,34 +393,6 @@
       "excerpt": "A national commentary surveys the string of recent student attacks on teachers, from a Maryland stabbing to a Montana classroom beating, and asks whether schools have lost the authority to protect the adults in the classroom as discipline structures erode.",
       "category": "Analysis",
       "state": null,
-      "featured": false
-    },
-    {
-      "id": "2026-07-06-edinburg-north-hs-weapon-lockdown",
-      "headline": "Lockdown lifted at Edinburg North High School after 'no credible threat' found following reports of a weapon on campus",
-      "source": "KRGV (NBC)",
-      "source_url": "https://www.krgv.com",
-      "date": "2026-07-06",
-      "url": "https://www.krgv.com/news/edinburg-north-high-school-on-lockdown-after-reports-of-a-weapon-on-campus-district-says/",
-      "image": "https://dcer237tfveol.cloudfront.net/v2/NwpjTPT7CzcA9pV8a4X6VQi1IKkTmvRzQSnJ-IDP6X_ttkIpADEMTyvDaYu3pl1xuLOeE4-KUE2GslM4SyYsd86J2EHB0ad9xtduwH-3kyTQ",
-      "image_alt": "Edinburg North High School campus",
-      "excerpt": "Edinburg North High School in Texas locked down July 6 after a parent reported a possible weapon on campus. Officers searched the school and lifted the lockdown within 40 minutes after finding no credible threat, though staff and parents said the scare renewed safety concerns.",
-      "category": "Incident",
-      "state": "TX",
-      "featured": false
-    },
-    {
-      "id": "2026-07-06-california-new-school-safety-laws",
-      "headline": "California schools must follow new cellphone, bathroom and safety laws",
-      "source": "Jefferson Public Radio (NPR)",
-      "source_url": "https://www.ijpr.org",
-      "date": "2026-07-06",
-      "url": "https://www.ijpr.org/education/2026-07-06/california-schools-must-follow-new-cellphone-bathroom-and-safety-laws",
-      "image": "https://npr.brightspotcdn.com/dims4/default/4089a9d/2147483647/strip/true/crop/767x403+0+54/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb3%2Fd6%2F142385b943a3ae8069990adcf89b%2Fstudent-cell-phones-opb.jpeg",
-      "image_alt": "Students using cellphones at school",
-      "excerpt": "New California laws taking effect this school year require districts to restrict student cellphone use and expand campus safety measures, including staff training requirements and broader background checks for school employees.",
-      "category": "Policy",
-      "state": "CA",
       "featured": false
     }
   ]
