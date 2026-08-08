@@ -1,6 +1,76 @@
 {
-  "updated": "2026-08-06T14:09:32Z",
+  "updated": "2026-08-08T18:30:00Z",
   "articles": [
+    {
+      "id": "2026-08-08-st-johns-teens-homemade-guns-explosives",
+      "headline": "St. Johns teens charged with cache of homemade guns and explosives",
+      "source": "WUSF (NPR)",
+      "source_url": "https://www.wusf.org",
+      "date": "2026-08-08",
+      "url": "https://www.wusf.org/local-state/2026-08-08/st-johns-teens-charged-with-cache-of-homemade-guns-and-explosives",
+      "image": "https://npr.brightspotcdn.com/dims4/default/5b5427b/2147483647/strip/true/crop/762x400+244+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc9%2Fa3%2Fa52c321349c4ab5af2b959cc4512%2Fmakeshift-firearm-1250x400.jpg",
+      "image_alt": "Deputy displays confiscated makeshift firearm",
+      "excerpt": "St. Johns County deputies say two middle schoolers amassed makeshift firearms and explosive material alongside white supremacist writings and a manifesto referencing mass shooters. An anonymous FortifyFL tip led to arrests; the elder teen will be tried as an adult.",
+      "category": "Incident",
+      "state": "FL",
+      "featured": false
+    },
+    {
+      "id": "2026-08-06-louisiana-teacher-shield-prevention",
+      "headline": "Before Teacher Shield is needed, provide resources to prevent aggression",
+      "source": "The Lens",
+      "source_url": "https://thelensnola.org",
+      "date": "2026-08-06",
+      "url": "https://thelensnola.org/2026/08/06/louisiana-teacher-shield-law-prevention/",
+      "image": "https://i0.wp.com/thelensnola.org/wp-content/uploads/2026/08/Before_Teacher_Shield_is_needed-0002.png?fit=1024%2C576",
+      "image_alt": "Teacher Shield law opinion illustration",
+      "excerpt": "Louisiana's Teacher Shield Act took effect Aug. 1, requiring students who assault school employees to be placed in alternative schools for at least two semesters. A former educator argues the new law must be paired with prevention resources and behavioral supports.",
+      "category": "Analysis",
+      "state": "LA",
+      "featured": false
+    },
+    {
+      "id": "2026-08-05-augusta-students-weapons-first-day",
+      "headline": "Students caught with weapons at Augusta schools on first day of class",
+      "source": "WRDW (CBS)",
+      "source_url": "https://www.wrdw.com",
+      "date": "2026-08-05",
+      "url": "https://www.wrdw.com/2026/08/07/students-caught-with-weapons-augusta-schools-first-day-class/",
+      "image": "https://gray-wrdw-prod.gtv-cdn.com/resizer/v2/VOEJA5JYSBGVDOWRRXGQ3MCMHI.jpg?auth=2c4130fba0567179eac71ff0d0d424e53f590e3be5e58ed4bfd02a811284e0a4&width=1200&height=600&smart=true",
+      "image_alt": "Augusta school weapons incidents coverage",
+      "excerpt": "On the first days of the new school year, a firearm was found in a student's backpack at Richmond Hill Elementary and a knife was detected at Westside High's metal detectors. Officials credited layered security measures and urged parents to check backpacks daily.",
+      "category": "Incident",
+      "state": "GA",
+      "featured": true
+    },
+    {
+      "id": "2026-08-05-greenbrier-threat-suspect-transferred",
+      "headline": "Former student accused of school shooting threat transferred to ADC over parole violation",
+      "source": "KATV (ABC)",
+      "source_url": "https://katv.com",
+      "date": "2026-08-05",
+      "url": "https://katv.com/news/local/former-student-accused-of-school-shooting-threat-transferred-to-adc-over-parole-violation-katv-news-share-inform-public",
+      "image": "https://katv.com/resources/media2/16x9/1920/1320/center/90/7fe7586a-f1bc-45e5-a791-a5785cde78ae-BLUEBACKGROUND20260805T222803.180.png",
+      "image_alt": "KATV news graphic",
+      "excerpt": "A 21-year-old former Greenbrier student accused of threatening a mass shooting at East Side Elementary was transferred to the Arkansas Department of Corrections on a parole violation. She remains in custody, charged with threatening mass violence on school property.",
+      "category": "Incident",
+      "state": "AR",
+      "featured": false
+    },
+    {
+      "id": "2026-08-05-lee-county-panic-buttons",
+      "headline": "Lee County Schools roll out new safety measures for 2026-27 year",
+      "source": "WALB (NBC)",
+      "source_url": "https://www.walb.com",
+      "date": "2026-08-05",
+      "url": "https://www.walb.com/2026/08/05/lee-county-schools-roll-out-new-safety-measures-2026-27-year/",
+      "image": "https://gray-walb-prod.gtv-cdn.com/resizer/v2/4QHH2JUWTNGIZJXAJZSQ7ZBTKE.png?auth=9a241d27bcbd16cb0bf81b80896befdd4a84d608c78825c18ca612ad181f70ac&width=1200&height=600&smart=true",
+      "image_alt": "Lee County school safety announcement",
+      "excerpt": "Every Lee County Schools staff member began the year wearing a panic-button badge that can summon help instantly or trigger a full campus lockdown. A newly created executive director of school safety role makes protecting students and staff a dedicated focus.",
+      "category": "Response",
+      "state": "GA",
+      "featured": false
+    },
     {
       "id": "2026-08-05-nc-weapons-offenses-20-year-low",
       "headline": "School districts strengthen security while weapons possession offenses drop to 20-year low",
@@ -41,7 +111,7 @@
       "excerpt": "Fayette County Public Schools officials outlined how Kentucky's Senate Bill 101 will reshape discipline, requiring expulsion of students who intentionally injure educators. The new protections take effect as teachers return for the school year.",
       "category": "Policy",
       "state": "KY",
-      "featured": true
+      "featured": false
     },
     {
       "id": "2026-08-04-houston-isd-safety-measures",
@@ -70,7 +140,9 @@
       "category": "Response",
       "state": "GA",
       "featured": false
-    },
+    }
+  ],
+  "archive": [
     {
       "id": "2026-07-30-metter-threat-faculty-charged",
       "headline": "Metter juvenile charged after threat against high school faculty, staff and students",
@@ -140,9 +212,7 @@
       "category": "Response",
       "state": "SC",
       "featured": false
-    }
-  ],
-  "archive": [
+    },
     {
       "id": "2026-07-30-colin-gray-sentencing-hearing",
       "headline": "Judge to sentence Colin Gray after closing arguments in Apalachee school shooting case",
@@ -365,34 +435,6 @@
       "excerpt": "A 17-year-old was arrested after an unannounced scanning at West Side High School turned up a loaded, defaced 9mm pistol in his bag. He faces three counts of criminal possession of a weapon; no one was injured.",
       "category": "Incident",
       "state": "NY",
-      "featured": false
-    },
-    {
-      "id": "2026-07-07-fitzgerald-summer-classes-canceled-threat",
-      "headline": "Fitzgerald Public Schools cancels summer classes, camp after threatening email",
-      "source": "Local 4 Detroit (NBC)",
-      "source_url": "https://www.clickondetroit.com",
-      "date": "2026-07-07",
-      "url": "https://www.clickondetroit.com/news/local/2026/07/07/fitzgerald-public-schools-cancels-summer-classes-camp-after-threatening-email/",
-      "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/526FVI3SKVAUNJVFU4ARAYGKBE.jpg",
-      "image_alt": "Fitzgerald Public Schools district building",
-      "excerpt": "Fitzgerald Public Schools in Warren, Michigan canceled all summer classes and camp programming after district leaders received a threatening email targeting multiple school buildings. Officials suspended programs while working with law enforcement to assess the threat.",
-      "category": "Incident",
-      "state": "MI",
-      "featured": false
-    },
-    {
-      "id": "2026-07-07-student-attacks-on-teachers-analysis",
-      "headline": "Now It's Student Attacks on Teachers: Are Our Schools Out of Control?",
-      "source": "RedState",
-      "source_url": "https://redstate.com",
-      "date": "2026-07-07",
-      "url": "https://redstate.com/wardclark/2026/07/07/now-its-student-attacks-on-teachers-are-our-schools-out-of-control-n2204067",
-      "image": "https://media.townhall.com/cdn/hodl/rs/images/up/2025/266/260e3d99-976c-4fa6-af94-4ef1dbc584a1.png",
-      "image_alt": "Empty classroom with desks",
-      "excerpt": "A national commentary surveys the string of recent student attacks on teachers, from a Maryland stabbing to a Montana classroom beating, and asks whether schools have lost the authority to protect the adults in the classroom as discipline structures erode.",
-      "category": "Analysis",
-      "state": null,
       "featured": false
     }
   ]
