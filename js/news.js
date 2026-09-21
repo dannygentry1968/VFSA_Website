@@ -4,7 +4,29 @@
 (function () {
   'use strict';
 
-  const NEWS_URL = 'data/news.json';
+  const NEWS_URL = '/data/news.json';
+
+  // US-domestic screen (defense in depth — curator must also enforce via scripts/us_domestic_news_filter.py).
+  // Hide international school-violence stories (e.g. Thailand) from featured/grid/archive/homepage.
+  const INTL_GEO_RE = /\b(thailand|thai|bangkok|nonthaburi|canada|toronto|mexico|united kingdom|england|scotland|australia|japan|china|india|brazil|france|germany|philippines|nigeria|israel|pakistan)\b|\/asia\/|\/europe\/|-intl-|\/intl\//i;
+  const US_STATE_RE = /^(AL|AK|AZ|AR|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|DC|PR|GU|VI|AS|MP)$/i;
+  const US_MARKER_RE = /\b(u\.?s\.?|united states|american|nationwide|federal|school shootings in the us|us school)\b/i;
+
+  function isUsDomesticArticle(article) {
+    if (!article) return false;
+    const blob = [article.id, article.headline, article.url, article.excerpt, article.image_alt, article.source, article.state]
+      .map(function (x) { return x == null ? '' : String(x); }).join(' ');
+    if (INTL_GEO_RE.test(blob)) return false;
+    if (article.state && US_STATE_RE.test(String(article.state))) return true;
+    if (US_MARKER_RE.test(blob)) return true;
+    // No state and no US marker: drop (prevents intl slip-through)
+    return false;
+  }
+
+  function filterUsDomestic(list) {
+    return (list || []).filter(isUsDomesticArticle);
+  }
+
 
   function escapeHtml(s) {
     if (s === null || s === undefined) return '';
@@ -170,7 +192,7 @@
   }
 
   function renderNewsPage(data, container) {
-    const articles = (data.articles || []).slice().sort(function (a, b) {
+    const articles = filterUsDomestic(data.articles || []).slice().sort(function (a, b) {
       return (parseDate(b.date) || 0) - (parseDate(a.date) || 0);
     });
     if (!articles.length) {
@@ -193,9 +215,9 @@
   }
 
   function renderArchivePage(data, container) {
-    const all = (data.archive || []).concat(
+    const all = filterUsDomestic(data.archive || []).concat(
       // Also include articles older than 10 days from the main list
-      (data.articles || []).filter(function (a) {
+      filterUsDomestic(data.articles || []).filter(function (a) {
         const d = parseDate(a.date);
         if (!d) return false;
         const ageDays = (Date.now() - d.getTime()) / (1000 * 60 * 60 * 24);
@@ -230,7 +252,7 @@
     const el = document.getElementById('news-updated');
     if (!el) return;
     const ts = data.updated || (data.articles && data.articles[0] && data.articles[0].date);
-    const count = (data.articles || []).length;
+    const count = filterUsDomestic(data.articles || []).length;
     el.textContent = formatUpdated(ts) + ' · ' + count + ' ' + (count === 1 ? 'story' : 'stories') + ' tracked';
   }
 
@@ -255,7 +277,7 @@
         // Homepage preview: render the 3 most recent cards
         const preview = document.querySelector('.news-preview-grid');
         if (preview) {
-          const items = (data.articles || []).slice().sort(function (a, b) {
+          const items = filterUsDomestic(data.articles || []).slice().sort(function (a, b) {
             return (parseDate(b.date) || 0) - (parseDate(a.date) || 0);
           }).slice(0, 3);
           if (items.length) {

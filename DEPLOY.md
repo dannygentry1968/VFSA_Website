@@ -48,13 +48,16 @@ docker compose up -d --build
 Scheduled task `daily-vfsa-news-curator` is registered and runs at 7:02 AM every day. It will:
 
 1. Pull latest from GitHub
-2. WebSearch for new school violence coverage
+2. WebSearch for new **US domestic** school violence coverage (US-scoped queries only — see `scripts/CURATOR.md`)
 3. Filter out paywalled sources (nytimes, washingtonpost, wsj, latimes, etc.)
-4. Filter for on-mission framing (educators as protected class)
-5. Extract structured data with OG images
-6. Update `data/news.json` (top 10, rolling 30-day archive)
-7. Commit + push to GitHub
-8. iMessage you a summary at 214-980-0924
+4. **US-domestic screen (required):** reject international stories (Thailand, UK, Canada, etc.) via `scripts/us_domestic_news_filter.py` / `is_us_domestic_article()`
+5. Filter for on-mission framing (educators as protected class)
+6. Extract structured data with OG images
+7. Update `data/news.json` (top 10, rolling 30-day archive)
+8. Commit + push to GitHub
+9. iMessage you a summary at 214-980-0924
+
+**Geography rule:** featured + archive must be United States schools / educator safety only. No international topics.
 
 ## Verify after deploy
 
